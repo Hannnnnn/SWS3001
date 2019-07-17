@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>16/07/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="5 McDonald's Gadgets put to the Test!" label="5 McDonald's Gadgets put to the Test!" />
+      <node id="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" label="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" />
+      <node id="Conor McGregor's FULL court appearance" label="Conor McGregor's FULL court appearance" />
+      <node id="Why Wednesday's Super Blue Blood Moon will be a sight to behold" label="Why Wednesday's Super Blue Blood Moon will be a sight to behold" />
+      <node id="John Collins' Best Dunks So Far This Season" label="John Collins' Best Dunks So Far This Season" />
+      <node id="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" label="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" />
+      <node id="Watch the full shootout between the USA and Canada" label="Watch the full shootout between the USA and Canada" />
+      <node id="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" label="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" />
+      <node id="Footage of starving polar bear exposes climate change impact" label="Footage of starving polar bear exposes climate change impact" />
+      <node id="Watch Rosenstein’s full announcement of the indictment of 13 Russians" label="Watch Rosenstein’s full announcement of the indictment of 13 Russians" />
+      <node id="The fight to make bad jobs better" label="The fight to make bad jobs better" />
+      <node id="First footage of deep-sea anglerfish pair" label="First footage of deep-sea anglerfish pair" />
+      <node id="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" label="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" />
+      <node id="Sam Smith - One Last Song (Official Video)" label="Sam Smith - One Last Song (Official Video)" />
+      <node id="OK Go - Obsession - Official Video" label="OK Go - Obsession - Official Video" />
+      <node id="Samy Kamkar: Getting Started with Reverse Engineering" label="Samy Kamkar: Getting Started with Reverse Engineering" />
+      <node id="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" label="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" />
+      <node id="Remy Ma - Wake Me Up ft. Lil' Kim" label="Remy Ma - Wake Me Up ft. Lil' Kim" />
+      <node id="Foster The People - Sit Next to Me (Official Video)" label="Foster The People - Sit Next to Me (Official Video)" />
+      <node id="What we know about Amtrak's deadly South Carolina collision" label="What we know about Amtrak's deadly South Carolina collision" />
+      <node id="Make it Real: HULK FIST SMASHES EVERYTHING" label="Make it Real: HULK FIST SMASHES EVERYTHING" />
+      <node id="Let It Go - Frozen ( cover by Big Marvel )" label="Let It Go - Frozen ( cover by Big Marvel )" />
+      <node id="Get to know Doug Jones, Alabama's newest Senator" label="Get to know Doug Jones, Alabama's newest Senator" />
+      <node id="Making new sounds using artificial intelligence" label="Making new sounds using artificial intelligence" />
+      <node id="Man Creates Snow Plow Out Of TV Box, Lawn Mower" label="Man Creates Snow Plow Out Of TV Box, Lawn Mower" />
+      <node id="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" label="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" />
+      <node id="Hacking PIN Codes with a 3D Printer - Hak5 2314" label="Hacking PIN Codes with a 3D Printer - Hak5 2314" />
+      <node id="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" label="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" />
+      <node id="YOGA CHALLENGE WITH TOM DALEY **Got Tasty**" label="YOGA CHALLENGE WITH TOM DALEY **Got Tasty**" />
+      <node id="Tsunami alerts across Pacific Coast following earthquake" label="Tsunami alerts across Pacific Coast following earthquake" />
+      <node id="Exercise Ball Magnus Effect from 200m!!" label="Exercise Ball Magnus Effect from 200m!!" />
+      <node id="OPTICAL ILLUSION: Jaw-dropping Diamonds" label="OPTICAL ILLUSION: Jaw-dropping Diamonds" />
+      <node id="WATCH: Trump sexual misconduct accusers hold news briefing" label="WATCH: Trump sexual misconduct accusers hold news briefing" />
+      <node id="WATCH: Sen. Mitch McConnell on tax reform" label="WATCH: Sen. Mitch McConnell on tax reform" />
+      <node id="Nikki Haley: 'We will never accept a nuclear North Korea'" label="Nikki Haley: 'We will never accept a nuclear North Korea'" />
+      <node id="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" label="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" />
+      <node id="Crushing and Slicing Red Hot Steel with Hydraulic Press" label="Crushing and Slicing Red Hot Steel with Hydraulic Press" />
+      <node id="Man scales building to save dangling child" label="Man scales building to save dangling child" />
+      <node id="3D Printed Nitro Engine Plastic Connecting Rod" label="3D Printed Nitro Engine Plastic Connecting Rod" />
+      <node id="Drone captures dramatic Ohio River flooding" label="Drone captures dramatic Ohio River flooding" />
+      <node id="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" label="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" />
+      <node id="Obsidian with a 60,000 PSI Waterjet - Obsidian Cube Seer Stone?" label="Obsidian with a 60,000 PSI Waterjet - Obsidian Cube Seer Stone?" />
+      <node id="How job surveillance is transforming trucking in America" label="How job surveillance is transforming trucking in America" />
+      <node id="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" label="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" />
+      <node id="Shawn Mendes In My Blood (Audio)" label="Shawn Mendes In My Blood (Audio)" />
+      <node id="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" label="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" />
+      <node id="Jerry Van Dyke, star of ‘Coach,’ dead at 86" label="Jerry Van Dyke, star of ‘Coach,’ dead at 86" />
+      <node id="Elton John - His Past, London's Present. A Taste Of The Future." label="Elton John - His Past, London's Present. A Taste Of The Future." />
+      <node id="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" label="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" />
+      <node id="Hunter Hayes - This Girl (Part Three Of Pictures)" label="Hunter Hayes - This Girl (Part Three Of Pictures)" />
+      <node id="Alicia Keys - When You Were Gone" label="Alicia Keys - When You Were Gone" />
+      <node id="Justin Timberlake covers Prince at Super Bowl half-time show" label="Justin Timberlake covers Prince at Super Bowl half-time show" />
+      <node id="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" label="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" />
+      <node id="Roger Federer's  20th Grand Slam Victory Tribute" label="Roger Federer's  20th Grand Slam Victory Tribute" />
+      <node id="Justin Timberlake - INTRODUCING MAN OF THE WOODS" label="Justin Timberlake - INTRODUCING MAN OF THE WOODS" />
+      <node id="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" label="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" />
+      <node id="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" label="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" />
+      <node id="Sting &amp; Shaggy - Don't Make Me Wait (audio)" label="Sting &amp; Shaggy - Don't Make Me Wait (audio)" />
+      <node id="Natalie Portman speaks at Women's March" label="Natalie Portman speaks at Women's March" />
+      <node id="Iraq-Iran earthquake: Deadly tremor hits border region - BBC News" label="Iraq-Iran earthquake: Deadly tremor hits border region - BBC News" />
+      <node id="North Korea will send a team to the Winter Olympics" label="North Korea will send a team to the Winter Olympics" />
+      <node id="North Korean athletes under 24-hour watch at Olympics" label="North Korean athletes under 24-hour watch at Olympics" />
+      <node id="North Korea is afraid of Samsung cell phones" label="North Korea is afraid of Samsung cell phones" />
+      <node id="The Queen's advice on wearing a crown - BBC News" label="The Queen's advice on wearing a crown - BBC News" />
+      <node id="Massive nor'easter bearing down on East Coast" label="Massive nor'easter bearing down on East Coast" />
+      <node id="It's not you. Commuting is bad for your health." label="It's not you. Commuting is bad for your health." />
+      <node id="I built a hammering machine that destroys everything" label="I built a hammering machine that destroys everything" />
+      <node id="The 'duck curve' is solar energy's greatest challenge" label="The 'duck curve' is solar energy's greatest challenge" />
+      <node id="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" label="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" />
+      <node id="Rachel Platten - Whole Heart (Audio)" label="Rachel Platten - Whole Heart (Audio)" />
+      <node id="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" label="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" />
+      <node id="Lindsey Vonn: I won't be representing Trump at Olympics" label="Lindsey Vonn: I won't be representing Trump at Olympics" />
+      <node id="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" label="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" />
+      <node id="Nicki Minaj - Chun-Li (Live on SNL / 2018)" label="Nicki Minaj - Chun-Li (Live on SNL / 2018)" />
+      <node id="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" label="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" />
+      <node id="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" label="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" />
+      <node id="Calum Scott - You Are The Reason (Official)" label="Calum Scott - You Are The Reason (Official)" />
+      <node id="Datally: A new mobile data-saving app by Google." label="Datally: A new mobile data-saving app by Google." />
+      <node id="Controversial WH adviser speaks out on resignation" label="Controversial WH adviser speaks out on resignation" />
+      <node id="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" label="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" />
+      <node id="Billie Eilish - lovely (with Khalid) Audio" label="Billie Eilish - lovely (with Khalid) Audio" />
+      <node id="Ann Curry says verbal sexual harassment was pervasive at NBC" label="Ann Curry says verbal sexual harassment was pervasive at NBC" />
+      <node id="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" label="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" />
+      <node id="Marteen - We Cool (Official Music Video)" label="Marteen - We Cool (Official Music Video)" />
+      <node id="MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL" label="MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL" />
+      <node id="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" label="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" />
+      <node id="Frances McDormand wins best actress at the 2018 Oscars" label="Frances McDormand wins best actress at the 2018 Oscars" />
+      <node id="Inside the NBA: Andre Ingram Speaks With The Inside Crew" label="Inside the NBA: Andre Ingram Speaks With The Inside Crew" />
+      <node id="Top 10 NBA Celebrity Reactions - The Starters" label="Top 10 NBA Celebrity Reactions - The Starters" />
+      <node id="Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball" label="Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball" />
+      <node id="Inside the NBA: Rockets-Clippers Locker Room Drama" label="Inside the NBA: Rockets-Clippers Locker Room Drama" />
+      <node id="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" label="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" />
+      <node id="Garry Frank's Weather Rant - 4/10/18" label="Garry Frank's Weather Rant - 4/10/18" />
+      <node id="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" label="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" />
+      <node id="Ronaldinho's most jaw-dropping plays with Barça" label="Ronaldinho's most jaw-dropping plays with Barça" />
+      <node id="Classic Game Enthusiast's DREAM?" label="Classic Game Enthusiast's DREAM?" />
+      <node id="Florida ER nurse goes on epic rant about flu season" label="Florida ER nurse goes on epic rant about flu season" />
+      <node id="ETRADE Super Bowl Commercial 2018  This Is Getting Old" label="ETRADE Super Bowl Commercial 2018  This Is Getting Old" />
+      <node id="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" label="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" />
+      <node id="Dope Tech of CES 2018! [Part 1]" label="Dope Tech of CES 2018! [Part 1]" />
+      <node id="The ULTIMATE $30,000 Gaming PC Setup" label="The ULTIMATE $30,000 Gaming PC Setup" />
+      <node id="Secret Santa pays a visit to Harvey-ravaged Texas" label="Secret Santa pays a visit to Harvey-ravaged Texas" />
+      <node id="Google Pixelbook: $1000 of Weird!" label="Google Pixelbook: $1000 of Weird!" />
+      <node id="JaVale McGee's Parking Lot Chronicles: Episode 3" label="JaVale McGee's Parking Lot Chronicles: Episode 3" />
+      <node id="The Super Google Pixel 2 Camera Upgrade!" label="The Super Google Pixel 2 Camera Upgrade!" />
+      <node id="Television icon Jim Nabors has passed away" label="Television icon Jim Nabors has passed away" />
+      <node id="LeBron James Drops 45 Points in GAME 7!" label="LeBron James Drops 45 Points in GAME 7!" />
+      <node id="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" label="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" />
+      <node id="LeBron James 44 Points &amp; A Game Winner!" label="LeBron James 44 Points &amp; A Game Winner!" />
+      <node id="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" label="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" />
+      <node id="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" label="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" />
+      <node id="Gohmert Questions FBI Director Christopher Wray" label="Gohmert Questions FBI Director Christopher Wray" />
+      <node id="Wallows - Pictures of Girls (Official Video)" label="Wallows - Pictures of Girls (Official Video)" />
+      <node id="Emotional Steve Smith Breaks Down During Apology" label="Emotional Steve Smith Breaks Down During Apology" />
+      <node id="Evanescence - Together Again (Official Audio)" label="Evanescence - Together Again (Official Audio)" />
+      <node id="Diplo - Color Blind (feat. Lil Xan) (Official Music Video)" label="Diplo - Color Blind (feat. Lil Xan) (Official Music Video)" />
+      <node id="Kesha - Learn To Let Go in the Live Lounge" label="Kesha - Learn To Let Go in the Live Lounge" />
+      <node id="CNN's Anthony Bourdain dead at 61" label="CNN's Anthony Bourdain dead at 61" />
+      <node id="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" label="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" />
+      <node id="PBS NewsHour Weekend full episode Dec. 2, 2017" label="PBS NewsHour Weekend full episode Dec. 2, 2017" />
+      <node id="Milo Takes Calls From Infowars Listeners" label="Milo Takes Calls From Infowars Listeners" />
+      <node id="Hawaii gets false missile strike alert" label="Hawaii gets false missile strike alert" />
+      <node id="Trump meets with students following Florida shooting" label="Trump meets with students following Florida shooting" />
+      <node id="Why female condoms are so hard to find" label="Why female condoms are so hard to find" />
+      <node id="Why does the Hawaii Kilauea volcano keep erupting?" label="Why does the Hawaii Kilauea volcano keep erupting?" />
+      <node id="How this military explosive is poisoning American soil" label="How this military explosive is poisoning American soil" />
+      <node id="How smart is today's artificial intelligence?" label="How smart is today's artificial intelligence?" />
+      <node id="Why Stradivarius violins are worth millions" label="Why Stradivarius violins are worth millions" />
+      <node id="Why the Oscars love method actors" label="Why the Oscars love method actors" />
+      <node id="DJ Earworm Mashup - United State of Pop 2017 (How We Do It)" label="DJ Earworm Mashup - United State of Pop 2017 (How We Do It)" />
+      <node id="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" label="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" />
+      <node id="We Stole Tampons from the Cashier-less Amazon Go Store" label="We Stole Tampons from the Cashier-less Amazon Go Store" />
+      <node id="The Truth About Wireless Charging" label="The Truth About Wireless Charging" />
+      <node id="We Built a 250cc Power Wheels Barbie Jeep" label="We Built a 250cc Power Wheels Barbie Jeep" />
+      <node id="The True All-Screen Smartphone is Here..." label="The True All-Screen Smartphone is Here..." />
+      <node id="Sprint Super Bowl Commercial 2018: Evelyn" label="Sprint Super Bowl Commercial 2018: Evelyn" />
+      <node id="Top 10 Plays of the Night: February 3, 2018" label="Top 10 Plays of the Night: February 3, 2018" />
+      <node id="Top 10 Plays of the Night: December 16, 2017" label="Top 10 Plays of the Night: December 16, 2017" />
+      <node id="SF Museum Groundbreaking Show Survival Research Labs 1992" label="SF Museum Groundbreaking Show Survival Research Labs 1992" />
+      <node id="Lindsey Stirling - Angels We Have Heard on High" label="Lindsey Stirling - Angels We Have Heard on High" />
+      <node id="Lindsey Stirling - Christmas C'mon feat. Becky G" label="Lindsey Stirling - Christmas C'mon feat. Becky G" />
+      <node id="Mason Ramsey - Famous [Lyric Video]" label="Mason Ramsey - Famous [Lyric Video]" />
+      <node id="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" label="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" />
+      <node id="Alan Walker - All Falls Down (Mio Remix)" label="Alan Walker - All Falls Down (Mio Remix)" />
+      <node id="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" label="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" />
+      <node id="Senate passes historic GOP tax bill, House to revote" label="Senate passes historic GOP tax bill, House to revote" />
+      <node id="Introducing the Peloton Tread™" label="Introducing the Peloton Tread™" />
+      <node id="NASA Launches InSight to Mars (part 1)" label="NASA Launches InSight to Mars (part 1)" />
+      <node id="The military coup in Zimbabwe, explained" label="The military coup in Zimbabwe, explained" />
+      <node id="Trump pardons Thanksgiving turkey" label="Trump pardons Thanksgiving turkey" />
+      <node id="ISIS defeated in Iraq, officials say" label="ISIS defeated in Iraq, officials say" />
+      <node id="Steelers Robbed By NFL Of Win Over Patriots" label="Steelers Robbed By NFL Of Win Over Patriots" />
+      <node id="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" label="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" />
+      <node id="After the Show Show: National Cookie Day" label="After the Show Show: National Cookie Day" />
+      <node id="(HD VERSION) Kelly Clarkson &amp; P!nk Everybody Hurts LIVE at the 2017 American Music Awards!" label="(HD VERSION) Kelly Clarkson &amp; P!nk Everybody Hurts LIVE at the 2017 American Music Awards!" />
+      <node id="Trying to Make a Wireless Lavalier Microphone" label="Trying to Make a Wireless Lavalier Microphone" />
+      <node id="Paige Forced To Retire From In-Ring WWE Competiton" label="Paige Forced To Retire From In-Ring WWE Competiton" />
+      <node id="Getting Delay, without using any effects..." label="Getting Delay, without using any effects..." />
+      <node id="Emergency goalie steals the show in Chicago" label="Emergency goalie steals the show in Chicago" />
+      <node id="Ohio State vs. Wisconsin - Big Ten Championship Highlights" label="Ohio State vs. Wisconsin - Big Ten Championship Highlights" />
+      <node id="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" label="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" />
+      <node id="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" label="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" />
+      <node id="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" label="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" />
+      <node id="Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！" label="Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！" />
+      <node id="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" label="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" />
+      <node id="Grammy Awards President: Women Need To Step Up!" label="Grammy Awards President: Women Need To Step Up!" />
+      <node id="Florida shooting suspect: Missed warning signs" label="Florida shooting suspect: Missed warning signs" />
+      <node id="Amtrak Crash: 2 dead, at least 70 injured in S Carolina" label="Amtrak Crash: 2 dead, at least 70 injured in S Carolina" />
+      <node id="2017 Takes Second Place for Hottest Year" label="2017 Takes Second Place for Hottest Year" />
+      <node id="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" label="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" />
+      <node id="Talking to Myself (Official Lyric Video) - Linkin Park" label="Talking to Myself (Official Lyric Video) - Linkin Park" />
+      <node id="Selling My iPhone X To a Machine at Walmart" label="Selling My iPhone X To a Machine at Walmart" />
+      <node id="P!nk presentation on AMAs 2017" label="P!nk presentation on AMAs 2017" />
+      <node id="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" label="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" />
+      <node id="Sigrid - Strangers (Lyric Video)" label="Sigrid - Strangers (Lyric Video)" />
+      <node id="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" label="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" />
+      <node id="2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports" label="2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports" />
+      <node id="2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports" label="2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports" />
+      <node id="$14,000 GOLD bar vs 60,000 PSI Waterjet - with Cody's Lab" label="$14,000 GOLD bar vs 60,000 PSI Waterjet - with Cody's Lab" />
+      <node id="0.38 Second Rubik's Cube Solve" label="0.38 Second Rubik's Cube Solve" />
+      <node id="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" label="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" />
+      <node id="I made 2000 ugly holiday cards with a $100k robot arm" label="I made 2000 ugly holiday cards with a $100k robot arm" />
+      <node id="Curiosity at Martian Scenic Overlook" label="Curiosity at Martian Scenic Overlook" />
+      <node id="The all-American fruit you've probably never heard of" label="The all-American fruit you've probably never heard of" />
+      <node id="Dan + Shay - Speechless (Wedding Video)" label="Dan + Shay - Speechless (Wedding Video)" />
+      <node id="Bannon Arrives to Testify on Capitol Hill" label="Bannon Arrives to Testify on Capitol Hill" />
+      <node id="Starving polar bear video exposes climate change impact" label="Starving polar bear video exposes climate change impact" />
+      <node id="The robot-proof job men aren't taking" label="The robot-proof job men aren't taking" />
+      <node id="The DENON DP 47F Turntable - an Automatic Classic" label="The DENON DP 47F Turntable - an Automatic Classic" />
+      <node id="This is the Future of Hot Dog Technology" label="This is the Future of Hot Dog Technology" />
+      <node id="Coach Taggart Monday Presser Ahead of Arizona" label="Coach Taggart Monday Presser Ahead of Arizona" />
+      <node id="Which Countries Are About To Collapse?" label="Which Countries Are About To Collapse?" />
+      <node id="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" label="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" />
+      <node id="Can you guess these WWE Superstars?" label="Can you guess these WWE Superstars?" />
+      <node id="Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)" label="Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)" />
+      <node id="Bellator 187: Conor McGregor storms the Bellator MMA Cage" label="Bellator 187: Conor McGregor storms the Bellator MMA Cage" />
+      <node id="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" label="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" />
+      <node id="UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview" label="UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview" />
+      <node id="Is the Surface Book 2 a MacBook Pro Killer?" label="Is the Surface Book 2 a MacBook Pro Killer?" />
+      <node id="iPod SSD hack, weird toothbrush dongles, and iPad accessories" label="iPod SSD hack, weird toothbrush dongles, and iPad accessories" />
+      <node id="Samsung Galaxy S9 Camera: What's New!" label="Samsung Galaxy S9 Camera: What's New!" />
+      <node id="Gretchen Carlson says it's time to modernize the Miss America pageant" label="Gretchen Carlson says it's time to modernize the Miss America pageant" />
+      <node id="Team USA Dances Into Olympics ‘Gangnam Style’" label="Team USA Dances Into Olympics ‘Gangnam Style’" />
+      <node id="How Trump makes extreme things look normal" label="How Trump makes extreme things look normal" />
+      <node id="Muse - Thought Contagion [Official Music Video]" label="Muse - Thought Contagion [Official Music Video]" />
+      <node id="The Undertaker returns: Raw 25, Jan. 22, 2018" label="The Undertaker returns: Raw 25, Jan. 22, 2018" />
+      <node id="Important upgrades for the EleksMaker PCB laser CNC machine" label="Important upgrades for the EleksMaker PCB laser CNC machine" />
+      <node id="Mr. President, are you a racist? (C-SPAN)" label="Mr. President, are you a racist? (C-SPAN)" />
+      <node id="Disgraced former archbishop of Boston, Cardinal Bernard Law, has died in Rome at 86." label="Disgraced former archbishop of Boston, Cardinal Bernard Law, has died in Rome at 86." />
+      <node id="The BEST Black Friday Tech Deals!" label="The BEST Black Friday Tech Deals!" />
+      <node id="The Weirdest Mystery Tech Yet..." label="The Weirdest Mystery Tech Yet..." />
+      <node id="Officials give update on shooting at high school in Maryland" label="Officials give update on shooting at high school in Maryland" />
+      <node id="Chloe x Halle - The Kids Are Alright - Official Music Video" label="Chloe x Halle - The Kids Are Alright - Official Music Video" />
+      <node id="SpaceX Launches Falcon Heavy Rocket" label="SpaceX Launches Falcon Heavy Rocket" />
+      <node id="Prince Harry and Meghan Markle reveal proposal details" label="Prince Harry and Meghan Markle reveal proposal details" />
+      <node id="Prince Harry and Meghan Markle to wed in Windsor in May - BBC News" label="Prince Harry and Meghan Markle to wed in Windsor in May - BBC News" />
+      <node id="Olympic gymnast Aly Raisman speaks at Larry Nassar sentencing" label="Olympic gymnast Aly Raisman speaks at Larry Nassar sentencing" />
+      <node id="The Weeknd - Call Out My Name (Official Video)" label="The Weeknd - Call Out My Name (Official Video)" />
+      <node id="Rihanna Claps Back at Snapchat for Domestic Violence Ad Featuring Chris Brown" label="Rihanna Claps Back at Snapchat for Domestic Violence Ad Featuring Chris Brown" />
+      <node id="Watch SpaceX Launch A Tesla Roadster To Mars On The Falcon Heavy Rocket — And Why It Matters" label="Watch SpaceX Launch A Tesla Roadster To Mars On The Falcon Heavy Rocket — And Why It Matters" />
+    </nodes>
+    <edges>
+      <edge id="0" source="5 McDonald's Gadgets put to the Test!" target="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" weight="0.6359706" />
+      <edge id="1" source="5 McDonald's Gadgets put to the Test!" target="Conor McGregor's FULL court appearance" weight="0.6270162" />
+      <edge id="2" source="5 McDonald's Gadgets put to the Test!" target="Why Wednesday's Super Blue Blood Moon will be a sight to behold" weight="0.617453" />
+      <edge id="3" source="5 McDonald's Gadgets put to the Test!" target="John Collins' Best Dunks So Far This Season" weight="0.6147753" />
+      <edge id="4" source="5 McDonald's Gadgets put to the Test!" target="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" weight="0.6234714" />
+      <edge id="5" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="Conor McGregor's FULL court appearance" weight="0.62199557" />
+      <edge id="6" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="The Queen's advice on wearing a crown - BBC News" weight="0.56890756" />
+      <edge id="7" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="Massive nor'easter bearing down on East Coast" weight="0.6371478" />
+      <edge id="8" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="It's not you. Commuting is bad for your health." weight="0.6083169" />
+      <edge id="9" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="Why Wednesday's Super Blue Blood Moon will be a sight to behold" weight="0.60419023" />
+      <edge id="10" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="I built a hammering machine that destroys everything" weight="0.6376247" />
+      <edge id="11" source="'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show" target="The 'duck curve' is solar energy's greatest challenge" weight="0.6323072" />
+      <edge id="12" source="Conor McGregor's FULL court appearance" target="The Queen's advice on wearing a crown - BBC News" weight="0.59743124" />
+      <edge id="13" source="Conor McGregor's FULL court appearance" target="Why Wednesday's Super Blue Blood Moon will be a sight to behold" weight="0.62221074" />
+      <edge id="14" source="Conor McGregor's FULL court appearance" target="Garry Frank's Weather Rant - 4/10/18" weight="0.6018448" />
+      <edge id="15" source="Conor McGregor's FULL court appearance" target="John Collins' Best Dunks So Far This Season" weight="0.61492956" />
+      <edge id="16" source="Conor McGregor's FULL court appearance" target="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" weight="0.6220599" />
+      <edge id="17" source="Conor McGregor's FULL court appearance" target="Roger Federer's  20th Grand Slam Victory Tribute" weight="0.6288097" />
+      <edge id="18" source="Conor McGregor's FULL court appearance" target="Ronaldinho's most jaw-dropping plays with Barça" weight="0.61847174" />
+      <edge id="19" source="Conor McGregor's FULL court appearance" target="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" weight="0.615631" />
+      <edge id="20" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="Why female condoms are so hard to find" weight="0.63773227" />
+      <edge id="21" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="The Queen's advice on wearing a crown - BBC News" weight="0.60375774" />
+      <edge id="22" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="Massive nor'easter bearing down on East Coast" weight="0.6233766" />
+      <edge id="23" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="Why does the Hawaii Kilauea volcano keep erupting?" weight="0.6172458" />
+      <edge id="24" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="Why Stradivarius violins are worth millions" weight="0.62874824" />
+      <edge id="25" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="The 'duck curve' is solar energy's greatest challenge" weight="0.600868" />
+      <edge id="26" source="Why Wednesday's Super Blue Blood Moon will be a sight to behold" target="Why the Oscars love method actors" weight="0.6180376" />
+      <edge id="27" source="John Collins' Best Dunks So Far This Season" target="Garry Frank's Weather Rant - 4/10/18" weight="0.56278175" />
+      <edge id="28" source="John Collins' Best Dunks So Far This Season" target="The 'duck curve' is solar energy's greatest challenge" weight="0.6389481" />
+      <edge id="29" source="John Collins' Best Dunks So Far This Season" target="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" weight="0.52472675" />
+      <edge id="30" source="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" target="Garry Frank's Weather Rant - 4/10/18" weight="0.58317393" />
+      <edge id="31" source="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" target="Roger Federer's  20th Grand Slam Victory Tribute" weight="0.60984373" />
+      <edge id="32" source="Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints" target="Ronaldinho's most jaw-dropping plays with Barça" weight="0.6118313" />
+      <edge id="33" source="Watch the full shootout between the USA and Canada" target="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" weight="0.6180099" />
+      <edge id="34" source="Watch the full shootout between the USA and Canada" target="Footage of starving polar bear exposes climate change impact" weight="0.6169721" />
+      <edge id="35" source="Watch the full shootout between the USA and Canada" target="Watch Rosenstein’s full announcement of the indictment of 13 Russians" weight="0.5907878" />
+      <edge id="36" source="Watch the full shootout between the USA and Canada" target="The fight to make bad jobs better" weight="0.6239078" />
+      <edge id="37" source="Watch the full shootout between the USA and Canada" target="First footage of deep-sea anglerfish pair" weight="0.6212927" />
+      <edge id="38" source="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" target="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" weight="0.6115827" />
+      <edge id="39" source="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" target="After the Show Show: National Cookie Day" weight="0.6198953" />
+      <edge id="40" source="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" target="(HD VERSION) Kelly Clarkson &amp; P!nk Everybody Hurts LIVE at the 2017 American Music Awards!" weight="0.6230027" />
+      <edge id="41" source="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" target="Footage of starving polar bear exposes climate change impact" weight="0.61149055" />
+      <edge id="42" source="Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers" target="First footage of deep-sea anglerfish pair" weight="0.574996" />
+      <edge id="43" source="Footage of starving polar bear exposes climate change impact" target="CNN's Anthony Bourdain dead at 61" weight="0.61649007" />
+      <edge id="44" source="Footage of starving polar bear exposes climate change impact" target="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" weight="0.638322" />
+      <edge id="45" source="Footage of starving polar bear exposes climate change impact" target="Television icon Jim Nabors has passed away" weight="0.632398" />
+      <edge id="46" source="Footage of starving polar bear exposes climate change impact" target="First footage of deep-sea anglerfish pair" weight="0.57439774" />
+      <edge id="47" source="Watch Rosenstein’s full announcement of the indictment of 13 Russians" target="Watch SpaceX Launch A Tesla Roadster To Mars On The Falcon Heavy Rocket — And Why It Matters" weight="0.6352544" />
+      <edge id="48" source="The fight to make bad jobs better" target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.61149055" />
+      <edge id="49" source="The fight to make bad jobs better" target="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" weight="0.5933276" />
+      <edge id="50" source="The fight to make bad jobs better" target="Introducing the Peloton Tread™" weight="0.63592714" />
+      <edge id="51" source="The fight to make bad jobs better" target="The all-American fruit you've probably never heard of" weight="0.59405196" />
+      <edge id="52" source="The fight to make bad jobs better" target="The Truth About Wireless Charging" weight="0.6266329" />
+      <edge id="53" source="The fight to make bad jobs better" target="How this military explosive is poisoning American soil" weight="0.626074" />
+      <edge id="54" source="The fight to make bad jobs better" target="The military coup in Zimbabwe, explained" weight="0.6276734" />
+      <edge id="55" source="The fight to make bad jobs better" target="The True All-Screen Smartphone is Here..." weight="0.6226935" />
+      <edge id="56" source="The fight to make bad jobs better" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.6278017" />
+      <edge id="57" source="First footage of deep-sea anglerfish pair" target="Important upgrades for the EleksMaker PCB laser CNC machine" weight="0.62570524" />
+      <edge id="58" source="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" target="Sam Smith - One Last Song (Official Video)" weight="0.63338417" />
+      <edge id="59" source="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" target="OK Go - Obsession - Official Video" weight="0.62617815" />
+      <edge id="60" source="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" target="Samy Kamkar: Getting Started with Reverse Engineering" weight="0.6302805" />
+      <edge id="61" source="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" target="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" weight="0.5" />
+      <edge id="62" source="Remy Ma - Wake Me Up (Audio) ft. Lil' Kim" target="Remy Ma - Wake Me Up ft. Lil' Kim" weight="0.5" />
+      <edge id="63" source="Sam Smith - One Last Song (Official Video)" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.56965137" />
+      <edge id="64" source="Sam Smith - One Last Song (Official Video)" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.56965137" />
+      <edge id="65" source="Sam Smith - One Last Song (Official Video)" target="Hunter Hayes - This Girl (Part Three Of Pictures)" weight="0.574854" />
+      <edge id="66" source="Sam Smith - One Last Song (Official Video)" target="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" weight="0.6333841" />
+      <edge id="67" source="Sam Smith - One Last Song (Official Video)" target="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" weight="0.6196043" />
+      <edge id="68" source="Sam Smith - One Last Song (Official Video)" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.6357274" />
+      <edge id="69" source="Sam Smith - One Last Song (Official Video)" target="Wallows - Pictures of Girls (Official Video)" weight="0.6320236" />
+      <edge id="70" source="Sam Smith - One Last Song (Official Video)" target="Mason Ramsey - Famous [Lyric Video]" weight="0.54405427" />
+      <edge id="71" source="Sam Smith - One Last Song (Official Video)" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.63549894" />
+      <edge id="72" source="Sam Smith - One Last Song (Official Video)" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.52589023" />
+      <edge id="73" source="Sam Smith - One Last Song (Official Video)" target="Remy Ma - Wake Me Up ft. Lil' Kim" weight="0.6333841" />
+      <edge id="74" source="OK Go - Obsession - Official Video" target="P!nk presentation on AMAs 2017" weight="0.6271087" />
+      <edge id="75" source="OK Go - Obsession - Official Video" target="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" weight="0.62617815" />
+      <edge id="76" source="OK Go - Obsession - Official Video" target="Remy Ma - Wake Me Up ft. Lil' Kim" weight="0.62617815" />
+      <edge id="77" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Gohmert Questions FBI Director Christopher Wray" weight="0.63508874" />
+      <edge id="78" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Rachel Platten - Whole Heart (Audio)" weight="0.62560636" />
+      <edge id="79" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" weight="0.58939695" />
+      <edge id="80" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" weight="0.6048013" />
+      <edge id="81" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Nicki Minaj - Chun-Li (Live on SNL / 2018)" weight="0.630636" />
+      <edge id="82" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" weight="0.63028044" />
+      <edge id="83" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" weight="0.63431996" />
+      <edge id="84" source="Samy Kamkar: Getting Started with Reverse Engineering" target="Remy Ma - Wake Me Up ft. Lil' Kim" weight="0.63028044" />
+      <edge id="85" source="Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown" target="Remy Ma - Wake Me Up ft. Lil' Kim" weight="0.5" />
+      <edge id="86" source="Foster The People - Sit Next to Me (Official Video)" target="What we know about Amtrak's deadly South Carolina collision" weight="0.62218666" />
+      <edge id="87" source="Foster The People - Sit Next to Me (Official Video)" target="Make it Real: HULK FIST SMASHES EVERYTHING" weight="0.59198314" />
+      <edge id="88" source="Foster The People - Sit Next to Me (Official Video)" target="Let It Go - Frozen ( cover by Big Marvel )" weight="0.6329768" />
+      <edge id="89" source="Foster The People - Sit Next to Me (Official Video)" target="Get to know Doug Jones, Alabama's newest Senator" weight="0.61561847" />
+      <edge id="90" source="Foster The People - Sit Next to Me (Official Video)" target="Making new sounds using artificial intelligence" weight="0.6298272" />
+      <edge id="91" source="Foster The People - Sit Next to Me (Official Video)" target="Man Creates Snow Plow Out Of TV Box, Lawn Mower" weight="0.6214931" />
+      <edge id="92" source="What we know about Amtrak's deadly South Carolina collision" target="We Stole Tampons from the Cashier-less Amazon Go Store" weight="0.6027453" />
+      <edge id="93" source="What we know about Amtrak's deadly South Carolina collision" target="The Truth About Wireless Charging" weight="0.6119569" />
+      <edge id="94" source="What we know about Amtrak's deadly South Carolina collision" target="How this military explosive is poisoning American soil" weight="0.6274925" />
+      <edge id="95" source="What we know about Amtrak's deadly South Carolina collision" target="I built a hammering machine that destroys everything" weight="0.61533046" />
+      <edge id="96" source="What we know about Amtrak's deadly South Carolina collision" target="We Built a 250cc Power Wheels Barbie Jeep" weight="0.6059902" />
+      <edge id="97" source="What we know about Amtrak's deadly South Carolina collision" target="The True All-Screen Smartphone is Here..." weight="0.6274303" />
+      <edge id="98" source="Make it Real: HULK FIST SMASHES EVERYTHING" target="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" weight="0.63411415" />
+      <edge id="99" source="Make it Real: HULK FIST SMASHES EVERYTHING" target="Let It Go - Frozen ( cover by Big Marvel )" weight="0.56159186" />
+      <edge id="100" source="Make it Real: HULK FIST SMASHES EVERYTHING" target="Get to know Doug Jones, Alabama's newest Senator" weight="0.6029388" />
+      <edge id="101" source="Make it Real: HULK FIST SMASHES EVERYTHING" target="Trying to Make a Wireless Lavalier Microphone" weight="0.62474823" />
+      <edge id="102" source="Get to know Doug Jones, Alabama's newest Senator" target="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" weight="0.60658175" />
+      <edge id="103" source="Get to know Doug Jones, Alabama's newest Senator" target="Talking to Myself (Official Lyric Video) - Linkin Park" weight="0.6064127" />
+      <edge id="104" source="Get to know Doug Jones, Alabama's newest Senator" target="Trying to Make a Wireless Lavalier Microphone" weight="0.6347772" />
+      <edge id="105" source="Making new sounds using artificial intelligence" target="Crushing and Slicing Red Hot Steel with Hydraulic Press" weight="0.59458625" />
+      <edge id="106" source="Making new sounds using artificial intelligence" target="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" weight="0.61640024" />
+      <edge id="107" source="Making new sounds using artificial intelligence" target="Hacking PIN Codes with a 3D Printer - Hak5 2314" weight="0.602934" />
+      <edge id="108" source="Making new sounds using artificial intelligence" target="Talking to Myself (Official Lyric Video) - Linkin Park" weight="0.6011497" />
+      <edge id="109" source="Making new sounds using artificial intelligence" target="Trying to Make a Wireless Lavalier Microphone" weight="0.58057654" />
+      <edge id="110" source="Making new sounds using artificial intelligence" target="Getting Delay, without using any effects..." weight="0.6147623" />
+      <edge id="111" source="Making new sounds using artificial intelligence" target="Selling My iPhone X To a Machine at Walmart" weight="0.60826933" />
+      <edge id="112" source="Making new sounds using artificial intelligence" target="Man Creates Snow Plow Out Of TV Box, Lawn Mower" weight="0.6315321" />
+      <edge id="113" source="Making new sounds using artificial intelligence" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.63279396" />
+      <edge id="114" source="Man Creates Snow Plow Out Of TV Box, Lawn Mower" target="Hawaii gets false missile strike alert" weight="0.5996566" />
+      <edge id="115" source="Man Creates Snow Plow Out Of TV Box, Lawn Mower" target="Man scales building to save dangling child" weight="0.6234106" />
+      <edge id="116" source="Man Creates Snow Plow Out Of TV Box, Lawn Mower" target="Drone captures dramatic Ohio River flooding" weight="0.6168737" />
+      <edge id="117" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="Hacking PIN Codes with a 3D Printer - Hak5 2314" weight="0.6243622" />
+      <edge id="118" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" weight="0.61972046" />
+      <edge id="119" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="YOGA CHALLENGE WITH TOM DALEY **Got Tasty**" weight="0.63614583" />
+      <edge id="120" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="Tsunami alerts across Pacific Coast following earthquake" weight="0.61044616" />
+      <edge id="121" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="Exercise Ball Magnus Effect from 200m!!" weight="0.6054861" />
+      <edge id="122" source="Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)" target="OPTICAL ILLUSION: Jaw-dropping Diamonds" weight="0.6047379" />
+      <edge id="123" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" weight="0.61039186" />
+      <edge id="124" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Crushing and Slicing Red Hot Steel with Hydraulic Press" weight="0.6193998" />
+      <edge id="125" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" weight="0.58487123" />
+      <edge id="126" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Talking to Myself (Official Lyric Video) - Linkin Park" weight="0.6222065" />
+      <edge id="127" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Exercise Ball Magnus Effect from 200m!!" weight="0.5989831" />
+      <edge id="128" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Getting Delay, without using any effects..." weight="0.6326634" />
+      <edge id="129" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.62718266" />
+      <edge id="130" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="Selling My iPhone X To a Machine at Walmart" weight="0.5733743" />
+      <edge id="131" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="How job surveillance is transforming trucking in America" weight="0.5947491" />
+      <edge id="132" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="OPTICAL ILLUSION: Jaw-dropping Diamonds" weight="0.6386868" />
+      <edge id="133" source="Hacking PIN Codes with a 3D Printer - Hak5 2314" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.6133202" />
+      <edge id="134" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" weight="0.6274199" />
+      <edge id="135" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)" weight="0.59194994" />
+      <edge id="136" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="Exercise Ball Magnus Effect from 200m!!" weight="0.61052877" />
+      <edge id="137" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.5982892" />
+      <edge id="138" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="How job surveillance is transforming trucking in America" weight="0.6096558" />
+      <edge id="139" source="Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly" target="OPTICAL ILLUSION: Jaw-dropping Diamonds" weight="0.58805126" />
+      <edge id="140" source="YOGA CHALLENGE WITH TOM DALEY **Got Tasty**" target="Exercise Ball Magnus Effect from 200m!!" weight="0.581478" />
+      <edge id="141" source="YOGA CHALLENGE WITH TOM DALEY **Got Tasty**" target="Team USA Dances Into Olympics ‘Gangnam Style’" weight="0.6045354" />
+      <edge id="142" source="Tsunami alerts across Pacific Coast following earthquake" target="Amtrak Crash: 2 dead, at least 70 injured in S Carolina" weight="0.63359684" />
+      <edge id="143" source="Tsunami alerts across Pacific Coast following earthquake" target="Trump pardons Thanksgiving turkey" weight="0.6169274" />
+      <edge id="144" source="Exercise Ball Magnus Effect from 200m!!" target="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" weight="0.5914184" />
+      <edge id="145" source="Exercise Ball Magnus Effect from 200m!!" target="3D Printed Nitro Engine Plastic Connecting Rod" weight="0.6267798" />
+      <edge id="146" source="Exercise Ball Magnus Effect from 200m!!" target="Olympic gymnast Aly Raisman speaks at Larry Nassar sentencing" weight="0.63814294" />
+      <edge id="147" source="Exercise Ball Magnus Effect from 200m!!" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.5955074" />
+      <edge id="148" source="Exercise Ball Magnus Effect from 200m!!" target="OPTICAL ILLUSION: Jaw-dropping Diamonds" weight="0.6268662" />
+      <edge id="149" source="Exercise Ball Magnus Effect from 200m!!" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.6295731" />
+      <edge id="150" source="OPTICAL ILLUSION: Jaw-dropping Diamonds" target="Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)" weight="0.6251379" />
+      <edge id="151" source="OPTICAL ILLUSION: Jaw-dropping Diamonds" target="3D Printed Nitro Engine Plastic Connecting Rod" weight="0.63562596" />
+      <edge id="152" source="OPTICAL ILLUSION: Jaw-dropping Diamonds" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.62984574" />
+      <edge id="153" source="WATCH: Trump sexual misconduct accusers hold news briefing" target="WATCH: Sen. Mitch McConnell on tax reform" weight="0.53179896" />
+      <edge id="154" source="WATCH: Trump sexual misconduct accusers hold news briefing" target="Nikki Haley: 'We will never accept a nuclear North Korea'" weight="0.63354206" />
+      <edge id="155" source="WATCH: Sen. Mitch McConnell on tax reform" target="Datally: A new mobile data-saving app by Google." weight="0.6132034" />
+      <edge id="156" source="WATCH: Sen. Mitch McConnell on tax reform" target="Nikki Haley: 'We will never accept a nuclear North Korea'" weight="0.63130844" />
+      <edge id="157" source="Nikki Haley: 'We will never accept a nuclear North Korea'" target="Hunter Hayes - This Girl (Part Three Of Pictures)" weight="0.63509077" />
+      <edge id="158" source="Nikki Haley: 'We will never accept a nuclear North Korea'" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.63803077" />
+      <edge id="159" source="Nikki Haley: 'We will never accept a nuclear North Korea'" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.62212276" />
+      <edge id="160" source="Nikki Haley: 'We will never accept a nuclear North Korea'" target="Mason Ramsey - Famous [Lyric Video]" weight="0.63893276" />
+      <edge id="161" source="Nikki Haley: 'We will never accept a nuclear North Korea'" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.61648697" />
+      <edge id="162" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="Crushing and Slicing Red Hot Steel with Hydraulic Press" weight="0.6222067" />
+      <edge id="163" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="Man scales building to save dangling child" weight="0.591334" />
+      <edge id="164" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="3D Printed Nitro Engine Plastic Connecting Rod" weight="0.6270351" />
+      <edge id="165" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="Drone captures dramatic Ohio River flooding" weight="0.62170124" />
+      <edge id="166" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.6169697" />
+      <edge id="167" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="Obsidian with a 60,000 PSI Waterjet - Obsidian Cube Seer Stone?" weight="0.62773985" />
+      <edge id="168" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="How job surveillance is transforming trucking in America" weight="0.6125144" />
+      <edge id="169" source="Casting Mirror Polished Japanese Foil Ball from Molten Aluminium" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.6137813" />
+      <edge id="170" source="Crushing and Slicing Red Hot Steel with Hydraulic Press" target="Trying to Make a Wireless Lavalier Microphone" weight="0.607944" />
+      <edge id="171" source="Crushing and Slicing Red Hot Steel with Hydraulic Press" target="Paige Forced To Retire From In-Ring WWE Competiton" weight="0.638219" />
+      <edge id="172" source="Crushing and Slicing Red Hot Steel with Hydraulic Press" target="Getting Delay, without using any effects..." weight="0.6218035" />
+      <edge id="173" source="Crushing and Slicing Red Hot Steel with Hydraulic Press" target="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" weight="0.6141448" />
+      <edge id="174" source="Man scales building to save dangling child" target="Starving polar bear video exposes climate change impact" weight="0.6146234" />
+      <edge id="175" source="Man scales building to save dangling child" target="Drone captures dramatic Ohio River flooding" weight="0.6250521" />
+      <edge id="176" source="Man scales building to save dangling child" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.6227257" />
+      <edge id="177" source="Man scales building to save dangling child" target="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" weight="0.634806" />
+      <edge id="178" source="3D Printed Nitro Engine Plastic Connecting Rod" target="Drone captures dramatic Ohio River flooding" weight="0.630442" />
+      <edge id="179" source="3D Printed Nitro Engine Plastic Connecting Rod" target="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" weight="0.6120334" />
+      <edge id="180" source="Drone captures dramatic Ohio River flooding" target="Curiosity at Martian Scenic Overlook" weight="0.6178007" />
+      <edge id="181" source="Drone captures dramatic Ohio River flooding" target="I made 2000 ugly holiday cards with a $100k robot arm" weight="0.63401556" />
+      <edge id="182" source="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" target="Dope Tech of CES 2018! [Part 1]" weight="0.6228186" />
+      <edge id="183" source="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" target="The robot-proof job men aren't taking" weight="0.615341" />
+      <edge id="184" source="Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow" target="How job surveillance is transforming trucking in America" weight="0.6350653" />
+      <edge id="185" source="How job surveillance is transforming trucking in America" target="Why female condoms are so hard to find" weight="0.6196884" />
+      <edge id="186" source="How job surveillance is transforming trucking in America" target="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" weight="0.6284627" />
+      <edge id="187" source="How job surveillance is transforming trucking in America" target="Curiosity at Martian Scenic Overlook" weight="0.62003034" />
+      <edge id="188" source="How job surveillance is transforming trucking in America" target="How this military explosive is poisoning American soil" weight="0.5961153" />
+      <edge id="189" source="How job surveillance is transforming trucking in America" target="Getting Delay, without using any effects..." weight="0.59231484" />
+      <edge id="190" source="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" target="Talking to Myself (Official Lyric Video) - Linkin Park" weight="0.6095829" />
+      <edge id="191" source="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" target="Trying to Make a Wireless Lavalier Microphone" weight="0.6218947" />
+      <edge id="192" source="CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}" target="Selling My iPhone X To a Machine at Walmart" weight="0.63592994" />
+      <edge id="193" source="Shawn Mendes In My Blood (Audio)" target="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" weight="0.5960616" />
+      <edge id="194" source="Shawn Mendes In My Blood (Audio)" target="Jerry Van Dyke, star of ‘Coach,’ dead at 86" weight="0.6013416" />
+      <edge id="195" source="Shawn Mendes In My Blood (Audio)" target="Elton John - His Past, London's Present. A Taste Of The Future." weight="0.62784463" />
+      <edge id="196" source="Shawn Mendes In My Blood (Audio)" target="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" weight="0.62188685" />
+      <edge id="197" source="Shawn Mendes In My Blood (Audio)" target="Hunter Hayes - This Girl (Part Three Of Pictures)" weight="0.5945119" />
+      <edge id="198" source="Shawn Mendes In My Blood (Audio)" target="Alicia Keys - When You Were Gone" weight="0.63498014" />
+      <edge id="199" source="Shawn Mendes In My Blood (Audio)" target="Justin Timberlake covers Prince at Super Bowl half-time show" weight="0.6092589" />
+      <edge id="200" source="Shawn Mendes In My Blood (Audio)" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.6058729" />
+      <edge id="201" source="Shawn Mendes In My Blood (Audio)" target="Roger Federer's  20th Grand Slam Victory Tribute" weight="0.62602574" />
+      <edge id="202" source="Shawn Mendes In My Blood (Audio)" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.6092589" />
+      <edge id="203" source="Shawn Mendes In My Blood (Audio)" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.6305134" />
+      <edge id="204" source="Shawn Mendes In My Blood (Audio)" target="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" weight="0.5804594" />
+      <edge id="205" source="Shawn Mendes In My Blood (Audio)" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.62901783" />
+      <edge id="206" source="Shawn Mendes In My Blood (Audio)" target="Natalie Portman speaks at Women's March" weight="0.6293493" />
+      <edge id="207" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Jerry Van Dyke, star of ‘Coach,’ dead at 86" weight="0.6041299" />
+      <edge id="208" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Elton John - His Past, London's Present. A Taste Of The Future." weight="0.56271696" />
+      <edge id="209" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" weight="0.62153053" />
+      <edge id="210" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Hunter Hayes - This Girl (Part Three Of Pictures)" weight="0.6374246" />
+      <edge id="211" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="LeBron James Drops 45 Points in GAME 7!" weight="0.6008575" />
+      <edge id="212" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Alicia Keys - When You Were Gone" weight="0.5811942" />
+      <edge id="213" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.5901821" />
+      <edge id="214" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.6008575" />
+      <edge id="215" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Justin Timberlake covers Prince at Super Bowl half-time show" weight="0.59562755" />
+      <edge id="216" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.59254444" />
+      <edge id="217" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.59562755" />
+      <edge id="218" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.571787" />
+      <edge id="219" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" weight="0.6197388" />
+      <edge id="220" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.62114775" />
+      <edge id="221" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.59949124" />
+      <edge id="222" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="Natalie Portman speaks at Women's March" weight="0.6338613" />
+      <edge id="223" source="Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.6008575" />
+      <edge id="224" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" weight="0.6285604" />
+      <edge id="225" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.6256792" />
+      <edge id="226" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" weight="0.5637009" />
+      <edge id="227" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="LeBron James Drops 45 Points in GAME 7!" weight="0.6208314" />
+      <edge id="228" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.6208314" />
+      <edge id="229" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.63678443" />
+      <edge id="230" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Calum Scott - You Are The Reason (Official)" weight="0.63534474" />
+      <edge id="231" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" weight="0.62816375" />
+      <edge id="232" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.621392" />
+      <edge id="233" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Natalie Portman speaks at Women's March" weight="0.5705914" />
+      <edge id="234" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.6208314" />
+      <edge id="235" source="Jerry Van Dyke, star of ‘Coach,’ dead at 86" target="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" weight="0.6345187" />
+      <edge id="236" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Evanescence - Together Again (Official Audio)" weight="0.5936014" />
+      <edge id="237" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Hunter Hayes - This Girl (Part Three Of Pictures)" weight="0.6294351" />
+      <edge id="238" source="Elton John - His Past, London's Present. A Taste Of The Future." target="LeBron James Drops 45 Points in GAME 7!" weight="0.62197715" />
+      <edge id="239" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Alicia Keys - When You Were Gone" weight="0.5256471" />
+      <edge id="240" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.5240908" />
+      <edge id="241" source="Elton John - His Past, London's Present. A Taste Of The Future." target="LeBron James 44 Points &amp; A Game Winner!" weight="0.62197715" />
+      <edge id="242" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" weight="0.63120353" />
+      <edge id="243" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Justin Timberlake covers Prince at Super Bowl half-time show" weight="0.5580111" />
+      <edge id="244" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Kesha - Learn To Let Go in the Live Lounge" weight="0.569782" />
+      <edge id="245" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.5614003" />
+      <edge id="246" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.5580111" />
+      <edge id="247" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.5290015" />
+      <edge id="248" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.5991963" />
+      <edge id="249" source="Elton John - His Past, London's Present. A Taste Of The Future." target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.60463375" />
+      <edge id="250" source="Elton John - His Past, London's Present. A Taste Of The Future." target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.62197715" />
+      <edge id="251" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" weight="0.61819434" />
+      <edge id="252" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.63103354" />
+      <edge id="253" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="LeBron James Drops 45 Points in GAME 7!" weight="0.6187315" />
+      <edge id="254" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.6187315" />
+      <edge id="255" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Justin Timberlake covers Prince at Super Bowl half-time show" weight="0.63518715" />
+      <edge id="256" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.6373154" />
+      <edge id="257" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.63518715" />
+      <edge id="258" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.6354947" />
+      <edge id="259" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！" weight="0.61355567" />
+      <edge id="260" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="Natalie Portman speaks at Women's March" weight="0.5955388" />
+      <edge id="261" source="Ed Sheeran &amp; Anne-Marie - Fairytale Of New York in the Live Lounge" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.6187315" />
+      <edge id="262" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.6375525" />
+      <edge id="263" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.592968" />
+      <edge id="264" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.592968" />
+      <edge id="265" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Alicia Keys - When You Were Gone" weight="0.614504" />
+      <edge id="266" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.63091695" />
+      <edge id="267" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.6308844" />
+      <edge id="268" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.56478333" />
+      <edge id="269" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Mason Ramsey - Famous [Lyric Video]" weight="0.5446124" />
+      <edge id="270" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.604829" />
+      <edge id="271" source="Hunter Hayes - This Girl (Part Three Of Pictures)" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.59514964" />
+      <edge id="272" source="Alicia Keys - When You Were Gone" target="Evanescence - Together Again (Official Audio)" weight="0.6046883" />
+      <edge id="273" source="Alicia Keys - When You Were Gone" target="Grammy Awards President: Women Need To Step Up!" weight="0.6369901" />
+      <edge id="274" source="Alicia Keys - When You Were Gone" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.6315398" />
+      <edge id="275" source="Alicia Keys - When You Were Gone" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.6315398" />
+      <edge id="276" source="Alicia Keys - When You Were Gone" target="LeBron James Drops 45 Points in GAME 7!" weight="0.63099915" />
+      <edge id="277" source="Alicia Keys - When You Were Gone" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.51813394" />
+      <edge id="278" source="Alicia Keys - When You Were Gone" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.63099915" />
+      <edge id="279" source="Alicia Keys - When You Were Gone" target="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" weight="0.62058914" />
+      <edge id="280" source="Alicia Keys - When You Were Gone" target="Justin Timberlake covers Prince at Super Bowl half-time show" weight="0.56601787" />
+      <edge id="281" source="Alicia Keys - When You Were Gone" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.54515225" />
+      <edge id="282" source="Alicia Keys - When You Were Gone" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.55042803" />
+      <edge id="283" source="Alicia Keys - When You Were Gone" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.56601787" />
+      <edge id="284" source="Alicia Keys - When You Were Gone" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.551262" />
+      <edge id="285" source="Alicia Keys - When You Were Gone" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.57117933" />
+      <edge id="286" source="Alicia Keys - When You Were Gone" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.598885" />
+      <edge id="287" source="Alicia Keys - When You Were Gone" target="Natalie Portman speaks at Women's March" weight="0.6334699" />
+      <edge id="288" source="Alicia Keys - When You Were Gone" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.63099915" />
+      <edge id="289" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Evanescence - Together Again (Official Audio)" weight="0.63242006" />
+      <edge id="290" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="LeBron James Drops 45 Points in GAME 7!" weight="0.59235454" />
+      <edge id="291" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.5814925" />
+      <edge id="292" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.59235454" />
+      <edge id="293" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.59948385" />
+      <edge id="294" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" weight="0.61989886" />
+      <edge id="295" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.5" />
+      <edge id="296" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.57004714" />
+      <edge id="297" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.58893657" />
+      <edge id="298" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.5895268" />
+      <edge id="299" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="Natalie Portman speaks at Women's March" weight="0.59865564" />
+      <edge id="300" source="Justin Timberlake covers Prince at Super Bowl half-time show" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.59235454" />
+      <edge id="301" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Evanescence - Together Again (Official Audio)" weight="0.63187724" />
+      <edge id="302" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.63405395" />
+      <edge id="303" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.5849982" />
+      <edge id="304" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.58499825" />
+      <edge id="305" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.5435144" />
+      <edge id="306" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.5963966" />
+      <edge id="307" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Mason Ramsey - Famous [Lyric Video]" weight="0.6246138" />
+      <edge id="308" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Justin Timberlake - INTRODUCING MAN OF THE WOODS" weight="0.61989886" />
+      <edge id="309" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.5976444" />
+      <edge id="310" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.59182984" />
+      <edge id="311" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.6349583" />
+      <edge id="312" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" weight="0.6277342" />
+      <edge id="313" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.5897848" />
+      <edge id="314" source="Julia Michaels - Jump (Lyric Video) ft. Trippie Redd" target="Natalie Portman speaks at Women's March" weight="0.60323036" />
+      <edge id="315" source="Roger Federer's  20th Grand Slam Victory Tribute" target="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" weight="0.62078226" />
+      <edge id="316" source="Roger Federer's  20th Grand Slam Victory Tribute" target="Ronaldinho's most jaw-dropping plays with Barça" weight="0.5554105" />
+      <edge id="317" source="Roger Federer's  20th Grand Slam Victory Tribute" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.60931844" />
+      <edge id="318" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Evanescence - Together Again (Official Audio)" weight="0.63242006" />
+      <edge id="319" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="LeBron James Drops 45 Points in GAME 7!" weight="0.59235454" />
+      <edge id="320" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.5814925" />
+      <edge id="321" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.59235454" />
+      <edge id="322" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.59948385" />
+      <edge id="323" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" weight="0.57004714" />
+      <edge id="324" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.58893657" />
+      <edge id="325" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.5895268" />
+      <edge id="326" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="Natalie Portman speaks at Women's March" weight="0.59865564" />
+      <edge id="327" source="Justin Timberlake - INTRODUCING MAN OF THE WOODS" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.59235454" />
+      <edge id="328" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Evanescence - Together Again (Official Audio)" weight="0.5669062" />
+      <edge id="329" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="LeBron James Drops 45 Points in GAME 7!" weight="0.6183282" />
+      <edge id="330" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.561119" />
+      <edge id="331" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.6183282" />
+      <edge id="332" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" weight="0.6359832" />
+      <edge id="333" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.5860337" />
+      <edge id="334" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.6374819" />
+      <edge id="335" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.5963971" />
+      <edge id="336" source="Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.6183282" />
+      <edge id="337" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="LeBron James Drops 45 Points in GAME 7!" weight="0.638349" />
+      <edge id="338" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="Bellator 187: Conor McGregor storms the Bellator MMA Cage" weight="0.63196415" />
+      <edge id="339" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="The Undertaker returns: Raw 25, Jan. 22, 2018" weight="0.6213787" />
+      <edge id="340" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.638349" />
+      <edge id="341" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" weight="0.58958083" />
+      <edge id="342" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="Sting &amp; Shaggy - Don't Make Me Wait (audio)" weight="0.6255276" />
+      <edge id="343" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.638349" />
+      <edge id="344" source="Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017" target="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" weight="0.6332241" />
+      <edge id="345" source="Sting &amp; Shaggy - Don't Make Me Wait (audio)" target="DJ Earworm Mashup - United State of Pop 2017 (How We Do It)" weight="0.618045" />
+      <edge id="346" source="Sting &amp; Shaggy - Don't Make Me Wait (audio)" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.6118918" />
+      <edge id="347" source="Sting &amp; Shaggy - Don't Make Me Wait (audio)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.63441694" />
+      <edge id="348" source="Sting &amp; Shaggy - Don't Make Me Wait (audio)" target="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" weight="0.61522835" />
+      <edge id="349" source="Sting &amp; Shaggy - Don't Make Me Wait (audio)" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.6164037" />
+      <edge id="350" source="Natalie Portman speaks at Women's March" target="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" weight="0.6329329" />
+      <edge id="351" source="Natalie Portman speaks at Women's March" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.59664327" />
+      <edge id="352" source="Natalie Portman speaks at Women's March" target="LeBron James Drops 45 Points in GAME 7!" weight="0.619575" />
+      <edge id="353" source="Natalie Portman speaks at Women's March" target="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" weight="0.6298022" />
+      <edge id="354" source="Natalie Portman speaks at Women's March" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.619575" />
+      <edge id="355" source="Natalie Portman speaks at Women's March" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.5875722" />
+      <edge id="356" source="Natalie Portman speaks at Women's March" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.619575" />
+      <edge id="357" source="Iraq-Iran earthquake: Deadly tremor hits border region - BBC News" target="North Korea will send a team to the Winter Olympics" weight="0.58663255" />
+      <edge id="358" source="Iraq-Iran earthquake: Deadly tremor hits border region - BBC News" target="North Korean athletes under 24-hour watch at Olympics" weight="0.60124856" />
+      <edge id="359" source="Iraq-Iran earthquake: Deadly tremor hits border region - BBC News" target="North Korea is afraid of Samsung cell phones" weight="0.5875387" />
+      <edge id="360" source="North Korea will send a team to the Winter Olympics" target="North Korean athletes under 24-hour watch at Olympics" weight="0.5405799" />
+      <edge id="361" source="North Korea will send a team to the Winter Olympics" target="North Korea is afraid of Samsung cell phones" weight="0.51548135" />
+      <edge id="362" source="North Korean athletes under 24-hour watch at Olympics" target="North Korea is afraid of Samsung cell phones" weight="0.54917824" />
+      <edge id="363" source="North Korean athletes under 24-hour watch at Olympics" target="Olympic gymnast Aly Raisman speaks at Larry Nassar sentencing" weight="0.6298794" />
+      <edge id="364" source="The Queen's advice on wearing a crown - BBC News" target="The 'duck curve' is solar energy's greatest challenge" weight="0.63018084" />
+      <edge id="365" source="Massive nor'easter bearing down on East Coast" target="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" weight="0.62464094" />
+      <edge id="366" source="Massive nor'easter bearing down on East Coast" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.6275691" />
+      <edge id="367" source="Massive nor'easter bearing down on East Coast" target="The 'duck curve' is solar energy's greatest challenge" weight="0.5708606" />
+      <edge id="368" source="It's not you. Commuting is bad for your health." target="We Stole Tampons from the Cashier-less Amazon Go Store" weight="0.63508534" />
+      <edge id="369" source="It's not you. Commuting is bad for your health." target="This is the Future of Hot Dog Technology" weight="0.59288716" />
+      <edge id="370" source="I built a hammering machine that destroys everything" target="We Stole Tampons from the Cashier-less Amazon Go Store" weight="0.56105244" />
+      <edge id="371" source="I built a hammering machine that destroys everything" target="I made 2000 ugly holiday cards with a $100k robot arm" weight="0.57522744" />
+      <edge id="372" source="I built a hammering machine that destroys everything" target="We Built a 250cc Power Wheels Barbie Jeep" weight="0.50754005" />
+      <edge id="373" source="The 'duck curve' is solar energy's greatest challenge" target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.6116351" />
+      <edge id="374" source="The 'duck curve' is solar energy's greatest challenge" target="Garry Frank's Weather Rant - 4/10/18" weight="0.6336289" />
+      <edge id="375" source="The 'duck curve' is solar energy's greatest challenge" target="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" weight="0.5602332" />
+      <edge id="376" source="The 'duck curve' is solar energy's greatest challenge" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.5999615" />
+      <edge id="377" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Rachel Platten - Whole Heart (Audio)" weight="0.603023" />
+      <edge id="378" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" weight="0.57057106" />
+      <edge id="379" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.614033" />
+      <edge id="380" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" weight="0.6274437" />
+      <edge id="381" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Nicki Minaj - Chun-Li (Live on SNL / 2018)" weight="0.6388926" />
+      <edge id="382" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" weight="0.6036215" />
+      <edge id="383" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" weight="0.63213587" />
+      <edge id="384" source="Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)" target="Calum Scott - You Are The Reason (Official)" weight="0.6369424" />
+      <edge id="385" source="Rachel Platten - Whole Heart (Audio)" target="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" weight="0.62820864" />
+      <edge id="386" source="Rachel Platten - Whole Heart (Audio)" target="Gohmert Questions FBI Director Christopher Wray" weight="0.58662516" />
+      <edge id="387" source="Rachel Platten - Whole Heart (Audio)" target="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" weight="0.5674764" />
+      <edge id="388" source="Rachel Platten - Whole Heart (Audio)" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.5785184" />
+      <edge id="389" source="Rachel Platten - Whole Heart (Audio)" target="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" weight="0.6141508" />
+      <edge id="390" source="Rachel Platten - Whole Heart (Audio)" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.6201755" />
+      <edge id="391" source="Rachel Platten - Whole Heart (Audio)" target="Nicki Minaj - Chun-Li (Live on SNL / 2018)" weight="0.6018878" />
+      <edge id="392" source="Rachel Platten - Whole Heart (Audio)" target="Ann Curry says verbal sexual harassment was pervasive at NBC" weight="0.6337514" />
+      <edge id="393" source="Rachel Platten - Whole Heart (Audio)" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.6358884" />
+      <edge id="394" source="Rachel Platten - Whole Heart (Audio)" target="Wallows - Pictures of Girls (Official Video)" weight="0.61819047" />
+      <edge id="395" source="Rachel Platten - Whole Heart (Audio)" target="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" weight="0.60638547" />
+      <edge id="396" source="Rachel Platten - Whole Heart (Audio)" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.6282085" />
+      <edge id="397" source="Rachel Platten - Whole Heart (Audio)" target="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" weight="0.5861193" />
+      <edge id="398" source="Rachel Platten - Whole Heart (Audio)" target="Calum Scott - You Are The Reason (Official)" weight="0.6255539" />
+      <edge id="399" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Gohmert Questions FBI Director Christopher Wray" weight="0.62191904" />
+      <edge id="400" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Lindsey Vonn: I won't be representing Trump at Olympics" weight="0.6031908" />
+      <edge id="401" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" weight="0.5990325" />
+      <edge id="402" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.61775005" />
+      <edge id="403" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Nicki Minaj - Chun-Li (Live on SNL / 2018)" weight="0.59996784" />
+      <edge id="404" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Emotional Steve Smith Breaks Down During Apology" weight="0.6313153" />
+      <edge id="405" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" weight="0.59981155" />
+      <edge id="406" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" weight="0.60755205" />
+      <edge id="407" source="Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!" target="Calum Scott - You Are The Reason (Official)" weight="0.590546" />
+      <edge id="408" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" weight="0.60934186" />
+      <edge id="409" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.6133585" />
+      <edge id="410" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.6133585" />
+      <edge id="411" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.60903513" />
+      <edge id="412" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Nicki Minaj - Chun-Li (Live on SNL / 2018)" weight="0.56992394" />
+      <edge id="413" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.58782405" />
+      <edge id="414" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Mason Ramsey - Famous [Lyric Video]" weight="0.6182821" />
+      <edge id="415" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" weight="0.61878353" />
+      <edge id="416" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.6093419" />
+      <edge id="417" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.62051356" />
+      <edge id="418" source="Lindsey Vonn: I won't be representing Trump at Olympics" target="Calum Scott - You Are The Reason (Official)" weight="0.5908873" />
+      <edge id="419" source="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" target="Emotional Steve Smith Breaks Down During Apology" weight="0.6311039" />
+      <edge id="420" source="Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)" target="Charlie Puth - Done For Me (feat. Kehlani) [Official Video]" weight="0.6377462" />
+      <edge id="421" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" weight="0.60749865" />
+      <edge id="422" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.5856544" />
+      <edge id="423" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.6359272" />
+      <edge id="424" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" weight="0.6327138" />
+      <edge id="425" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.6074986" />
+      <edge id="426" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Calum Scott - You Are The Reason (Official)" weight="0.63785326" />
+      <edge id="427" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.60303783" />
+      <edge id="428" source="Nicki Minaj - Chun-Li (Live on SNL / 2018)" target="Sigrid - Strangers (Lyric Video)" weight="0.6277786" />
+      <edge id="429" source="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" target="Emotional Steve Smith Breaks Down During Apology" weight="0.61448073" />
+      <edge id="430" source="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" target="Wallows - Pictures of Girls (Official Video)" weight="0.63820267" />
+      <edge id="431" source="Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season" target="Calum Scott - You Are The Reason (Official)" weight="0.6202114" />
+      <edge id="432" source="Calum Scott - You Are The Reason (Official)" target="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" weight="0.5915606" />
+      <edge id="433" source="Calum Scott - You Are The Reason (Official)" target="Gohmert Questions FBI Director Christopher Wray" weight="0.63826704" />
+      <edge id="434" source="Calum Scott - You Are The Reason (Official)" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.6246647" />
+      <edge id="435" source="Calum Scott - You Are The Reason (Official)" target="Coach Taggart Monday Presser Ahead of Arizona" weight="0.63157994" />
+      <edge id="436" source="Calum Scott - You Are The Reason (Official)" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.6350135" />
+      <edge id="437" source="Calum Scott - You Are The Reason (Official)" target="Mason Ramsey - Famous [Lyric Video]" weight="0.6339063" />
+      <edge id="438" source="Calum Scott - You Are The Reason (Official)" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.5915606" />
+      <edge id="439" source="Calum Scott - You Are The Reason (Official)" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.63718086" />
+      <edge id="440" source="Datally: A new mobile data-saving app by Google." target="Controversial WH adviser speaks out on resignation" weight="0.63000345" />
+      <edge id="441" source="Controversial WH adviser speaks out on resignation" target="Curiosity at Martian Scenic Overlook" weight="0.6243407" />
+      <edge id="442" source="Controversial WH adviser speaks out on resignation" target="Introducing the Peloton Tread™" weight="0.6386331" />
+      <edge id="443" source="Controversial WH adviser speaks out on resignation" target="ISIS defeated in Iraq, officials say" weight="0.6203507" />
+      <edge id="444" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Billie Eilish - lovely (with Khalid) Audio" weight="0.5803442" />
+      <edge id="445" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Ann Curry says verbal sexual harassment was pervasive at NBC" weight="0.6214533" />
+      <edge id="446" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.6030463" />
+      <edge id="447" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Marteen - We Cool (Official Music Video)" weight="0.6386062" />
+      <edge id="448" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL" weight="0.6176265" />
+      <edge id="449" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.50000006" />
+      <edge id="450" source="Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.5976091" />
+      <edge id="451" source="Billie Eilish - lovely (with Khalid) Audio" target="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" weight="0.5958515" />
+      <edge id="452" source="Billie Eilish - lovely (with Khalid) Audio" target="Marteen - We Cool (Official Music Video)" weight="0.62336373" />
+      <edge id="453" source="Billie Eilish - lovely (with Khalid) Audio" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.5803442" />
+      <edge id="454" source="Billie Eilish - lovely (with Khalid) Audio" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.5637555" />
+      <edge id="455" source="Billie Eilish - lovely (with Khalid) Audio" target="Sigrid - Strangers (Lyric Video)" weight="0.59868884" />
+      <edge id="456" source="Ann Curry says verbal sexual harassment was pervasive at NBC" target="Gretchen Carlson says it's time to modernize the Miss America pageant" weight="0.530228" />
+      <edge id="457" source="Ann Curry says verbal sexual harassment was pervasive at NBC" target="Bannon Arrives to Testify on Capitol Hill" weight="0.6368984" />
+      <edge id="458" source="Ann Curry says verbal sexual harassment was pervasive at NBC" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.6214533" />
+      <edge id="459" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.6384508" />
+      <edge id="460" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.6384508" />
+      <edge id="461" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" weight="0.63405263" />
+      <edge id="462" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.6350302" />
+      <edge id="463" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.60304636" />
+      <edge id="464" source="Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.57950324" />
+      <edge id="465" source="Marteen - We Cool (Official Music Video)" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.6351832" />
+      <edge id="466" source="Marteen - We Cool (Official Music Video)" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.6386062" />
+      <edge id="467" source="MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL" target="Bannon Arrives to Testify on Capitol Hill" weight="0.62226796" />
+      <edge id="468" source="MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL" target="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" weight="0.61762655" />
+      <edge id="469" source="Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018" target="Frances McDormand wins best actress at the 2018 Oscars" weight="0.5976091" />
+      <edge id="470" source="Frances McDormand wins best actress at the 2018 Oscars" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.61177933" />
+      <edge id="471" source="Frances McDormand wins best actress at the 2018 Oscars" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.61177933" />
+      <edge id="472" source="Frances McDormand wins best actress at the 2018 Oscars" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.62434274" />
+      <edge id="473" source="Inside the NBA: Andre Ingram Speaks With The Inside Crew" target="Top 10 NBA Celebrity Reactions - The Starters" weight="0.60107905" />
+      <edge id="474" source="Inside the NBA: Andre Ingram Speaks With The Inside Crew" target="Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball" weight="0.60156405" />
+      <edge id="475" source="Inside the NBA: Andre Ingram Speaks With The Inside Crew" target="Inside the NBA: Rockets-Clippers Locker Room Drama" weight="0.5" />
+      <edge id="476" source="Inside the NBA: Andre Ingram Speaks With The Inside Crew" target="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" weight="0.5" />
+      <edge id="477" source="Top 10 NBA Celebrity Reactions - The Starters" target="Sprint Super Bowl Commercial 2018: Evelyn" weight="0.6241028" />
+      <edge id="478" source="Top 10 NBA Celebrity Reactions - The Starters" target="Inside the NBA: Rockets-Clippers Locker Room Drama" weight="0.60107905" />
+      <edge id="479" source="Top 10 NBA Celebrity Reactions - The Starters" target="Top 10 Plays of the Night: February 3, 2018" weight="0.6044167" />
+      <edge id="480" source="Top 10 NBA Celebrity Reactions - The Starters" target="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" weight="0.60107905" />
+      <edge id="481" source="Top 10 NBA Celebrity Reactions - The Starters" target="Top 10 Plays of the Night: December 16, 2017" weight="0.6044167" />
+      <edge id="482" source="Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball" target="Inside the NBA: Rockets-Clippers Locker Room Drama" weight="0.60156405" />
+      <edge id="483" source="Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball" target="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" weight="0.60156405" />
+      <edge id="484" source="Inside the NBA: Rockets-Clippers Locker Room Drama" target="Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis" weight="0.5" />
+      <edge id="485" source="Garry Frank's Weather Rant - 4/10/18" target="Ronaldinho's most jaw-dropping plays with Barça" weight="0.62870836" />
+      <edge id="486" source="Garry Frank's Weather Rant - 4/10/18" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.63651675" />
+      <edge id="487" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.59918666" />
+      <edge id="488" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.5991867" />
+      <edge id="489" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Chloe x Halle - The Kids Are Alright - Official Music Video" weight="0.6331592" />
+      <edge id="490" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Mason Ramsey - Famous [Lyric Video]" weight="0.60003996" />
+      <edge id="491" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.5794793" />
+      <edge id="492" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.6082741" />
+      <edge id="493" source="Liam Payne, Rita Ora - For You (Fifty Shades Freed)" target="Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！" weight="0.5837164" />
+      <edge id="494" source="Ronaldinho's most jaw-dropping plays with Barça" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.5762225" />
+      <edge id="495" source="Classic Game Enthusiast's DREAM?" target="Florida ER nurse goes on epic rant about flu season" weight="0.636837" />
+      <edge id="496" source="Classic Game Enthusiast's DREAM?" target="ETRADE Super Bowl Commercial 2018  This Is Getting Old" weight="0.6016665" />
+      <edge id="497" source="Classic Game Enthusiast's DREAM?" target="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" weight="0.617497" />
+      <edge id="498" source="Classic Game Enthusiast's DREAM?" target="Dope Tech of CES 2018! [Part 1]" weight="0.59589005" />
+      <edge id="499" source="Classic Game Enthusiast's DREAM?" target="The ULTIMATE $30,000 Gaming PC Setup" weight="0.63603175" />
+      <edge id="500" source="Classic Game Enthusiast's DREAM?" target="Secret Santa pays a visit to Harvey-ravaged Texas" weight="0.61318386" />
+      <edge id="501" source="Classic Game Enthusiast's DREAM?" target="Google Pixelbook: $1000 of Weird!" weight="0.61057776" />
+      <edge id="502" source="Classic Game Enthusiast's DREAM?" target="JaVale McGee's Parking Lot Chronicles: Episode 3" weight="0.6376939" />
+      <edge id="503" source="Classic Game Enthusiast's DREAM?" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.60404897" />
+      <edge id="504" source="Classic Game Enthusiast's DREAM?" target="Television icon Jim Nabors has passed away" weight="0.6151782" />
+      <edge id="505" source="Florida ER nurse goes on epic rant about flu season" target="Florida shooting suspect: Missed warning signs" weight="0.5918715" />
+      <edge id="506" source="ETRADE Super Bowl Commercial 2018  This Is Getting Old" target="P!nk presentation on AMAs 2017" weight="0.62368655" />
+      <edge id="507" source="ETRADE Super Bowl Commercial 2018  This Is Getting Old" target="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" weight="0.6159233" />
+      <edge id="508" source="ETRADE Super Bowl Commercial 2018  This Is Getting Old" target="Dope Tech of CES 2018! [Part 1]" weight="0.6166525" />
+      <edge id="509" source="ETRADE Super Bowl Commercial 2018  This Is Getting Old" target="Secret Santa pays a visit to Harvey-ravaged Texas" weight="0.63436306" />
+      <edge id="510" source="ETRADE Super Bowl Commercial 2018  This Is Getting Old" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.60413384" />
+      <edge id="511" source="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" target="Dope Tech of CES 2018! [Part 1]" weight="0.63605475" />
+      <edge id="512" source="Fake Feminist Trudeau Takes Offence At Woman Saying Mankind" target="Secret Santa pays a visit to Harvey-ravaged Texas" weight="0.59419966" />
+      <edge id="513" source="Dope Tech of CES 2018! [Part 1]" target="JaVale McGee's Parking Lot Chronicles: Episode 3" weight="0.6346154" />
+      <edge id="514" source="Dope Tech of CES 2018! [Part 1]" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.6303685" />
+      <edge id="515" source="Dope Tech of CES 2018! [Part 1]" target="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" weight="0.6190004" />
+      <edge id="516" source="The ULTIMATE $30,000 Gaming PC Setup" target="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" weight="0.6260048" />
+      <edge id="517" source="The ULTIMATE $30,000 Gaming PC Setup" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.60340333" />
+      <edge id="518" source="Secret Santa pays a visit to Harvey-ravaged Texas" target="Hawaii gets false missile strike alert" weight="0.6024057" />
+      <edge id="519" source="Secret Santa pays a visit to Harvey-ravaged Texas" target="How Trump makes extreme things look normal" weight="0.62895626" />
+      <edge id="520" source="Secret Santa pays a visit to Harvey-ravaged Texas" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.60095406" />
+      <edge id="521" source="Google Pixelbook: $1000 of Weird!" target="iPod SSD hack, weird toothbrush dongles, and iPad accessories" weight="0.62841964" />
+      <edge id="522" source="Google Pixelbook: $1000 of Weird!" target="Samsung Galaxy S9 Camera: What's New!" weight="0.62714005" />
+      <edge id="523" source="Google Pixelbook: $1000 of Weird!" target="(HD VERSION) Kelly Clarkson &amp; P!nk Everybody Hurts LIVE at the 2017 American Music Awards!" weight="0.6354" />
+      <edge id="524" source="Google Pixelbook: $1000 of Weird!" target="JaVale McGee's Parking Lot Chronicles: Episode 3" weight="0.6309028" />
+      <edge id="525" source="Google Pixelbook: $1000 of Weird!" target="The Super Google Pixel 2 Camera Upgrade!" weight="0.62597144" />
+      <edge id="526" source="JaVale McGee's Parking Lot Chronicles: Episode 3" target="Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)" weight="0.61831903" />
+      <edge id="527" source="JaVale McGee's Parking Lot Chronicles: Episode 3" target="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" weight="0.63353133" />
+      <edge id="528" source="The Super Google Pixel 2 Camera Upgrade!" target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.60995436" />
+      <edge id="529" source="The Super Google Pixel 2 Camera Upgrade!" target="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" weight="0.6380997" />
+      <edge id="530" source="The Super Google Pixel 2 Camera Upgrade!" target="The all-American fruit you've probably never heard of" weight="0.6364967" />
+      <edge id="531" source="The Super Google Pixel 2 Camera Upgrade!" target="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" weight="0.62095165" />
+      <edge id="532" source="The Super Google Pixel 2 Camera Upgrade!" target="The BEST Black Friday Tech Deals!" weight="0.62939453" />
+      <edge id="533" source="The Super Google Pixel 2 Camera Upgrade!" target="The Weeknd - Call Out My Name (Official Video)" weight="0.6369756" />
+      <edge id="534" source="The Super Google Pixel 2 Camera Upgrade!" target="The DENON DP 47F Turntable - an Automatic Classic" weight="0.6111685" />
+      <edge id="535" source="The Super Google Pixel 2 Camera Upgrade!" target="Television icon Jim Nabors has passed away" weight="0.6221495" />
+      <edge id="536" source="Television icon Jim Nabors has passed away" target="CNN's Anthony Bourdain dead at 61" weight="0.63339305" />
+      <edge id="537" source="Television icon Jim Nabors has passed away" target="Starving polar bear video exposes climate change impact" weight="0.63860506" />
+      <edge id="538" source="LeBron James Drops 45 Points in GAME 7!" target="LeBron James 44 Points &amp; A Game Winner!" weight="0.50000006" />
+      <edge id="539" source="LeBron James Drops 45 Points in GAME 7!" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.6306979" />
+      <edge id="540" source="LeBron James Drops 45 Points in GAME 7!" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.50000006" />
+      <edge id="541" source="LeBron James Drops 45 Points in GAME 7!" target="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" weight="0.63295823" />
+      <edge id="542" source="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" target="Evanescence - Together Again (Official Audio)" weight="0.6048456" />
+      <edge id="543" source="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" target="Grammy Awards President: Women Need To Step Up!" weight="0.62713933" />
+      <edge id="544" source="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" target="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" weight="0.62194943" />
+      <edge id="545" source="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.56088305" />
+      <edge id="546" source="Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.56742287" />
+      <edge id="547" source="LeBron James 44 Points &amp; A Game Winner!" target="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" weight="0.6306979" />
+      <edge id="548" source="LeBron James 44 Points &amp; A Game Winner!" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.50000006" />
+      <edge id="549" source="LeBron James 44 Points &amp; A Game Winner!" target="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" weight="0.63295823" />
+      <edge id="550" source="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.61934924" />
+      <edge id="551" source="Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)" target="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" weight="0.6306979" />
+      <edge id="552" source="LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!" target="Fall Out Boy - Yule Shoot Your Eye Out (Audio)" weight="0.63295823" />
+      <edge id="553" source="Gohmert Questions FBI Director Christopher Wray" target="Wallows - Pictures of Girls (Official Video)" weight="0.6218255" />
+      <edge id="554" source="Wallows - Pictures of Girls (Official Video)" target="Lindsey Stirling - Angels We Have Heard on High" weight="0.6296222" />
+      <edge id="555" source="Wallows - Pictures of Girls (Official Video)" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.6296222" />
+      <edge id="556" source="Wallows - Pictures of Girls (Official Video)" target="Mason Ramsey - Famous [Lyric Video]" weight="0.63365984" />
+      <edge id="557" source="Wallows - Pictures of Girls (Official Video)" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.60788506" />
+      <edge id="558" source="Evanescence - Together Again (Official Audio)" target="Diplo - Color Blind (feat. Lil Xan) (Official Music Video)" weight="0.61831075" />
+      <edge id="559" source="Evanescence - Together Again (Official Audio)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.6044542" />
+      <edge id="560" source="Diplo - Color Blind (feat. Lil Xan) (Official Music Video)" target="Kesha - Learn To Let Go in the Live Lounge" weight="0.6089014" />
+      <edge id="561" source="Diplo - Color Blind (feat. Lil Xan) (Official Music Video)" target="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" weight="0.62381476" />
+      <edge id="562" source="Kesha - Learn To Let Go in the Live Lounge" target="Mason Ramsey - Famous [Lyric Video]" weight="0.6374899" />
+      <edge id="563" source="CNN's Anthony Bourdain dead at 61" target="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" weight="0.6340904" />
+      <edge id="564" source="CNN's Anthony Bourdain dead at 61" target="PBS NewsHour Weekend full episode Dec. 2, 2017" weight="0.5801239" />
+      <edge id="565" source="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" target="Bellator 187: Conor McGregor storms the Bellator MMA Cage" weight="0.6144218" />
+      <edge id="566" source="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" target="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" weight="0.6119425" />
+      <edge id="567" source="WrestleMania's memorable returns: WWE Top 10, March 24, 2018" target="UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview" weight="0.61263084" />
+      <edge id="568" source="PBS NewsHour Weekend full episode Dec. 2, 2017" target="SF Museum Groundbreaking Show Survival Research Labs 1992" weight="0.606546" />
+      <edge id="569" source="Milo Takes Calls From Infowars Listeners" target="Hawaii gets false missile strike alert" weight="0.61304617" />
+      <edge id="570" source="Milo Takes Calls From Infowars Listeners" target="Trump meets with students following Florida shooting" weight="0.60794806" />
+      <edge id="571" source="Hawaii gets false missile strike alert" target="We Stole Tampons from the Cashier-less Amazon Go Store" weight="0.6374876" />
+      <edge id="572" source="Hawaii gets false missile strike alert" target="How Trump makes extreme things look normal" weight="0.5988777" />
+      <edge id="573" source="Hawaii gets false missile strike alert" target="ISIS defeated in Iraq, officials say" weight="0.6347283" />
+      <edge id="574" source="Trump meets with students following Florida shooting" target="The Undertaker returns: Raw 25, Jan. 22, 2018" weight="0.62436664" />
+      <edge id="575" source="Trump meets with students following Florida shooting" target="Rihanna Claps Back at Snapchat for Domestic Violence Ad Featuring Chris Brown" weight="0.6259297" />
+      <edge id="576" source="Why female condoms are so hard to find" target="Why does the Hawaii Kilauea volcano keep erupting?" weight="0.57807475" />
+      <edge id="577" source="Why female condoms are so hard to find" target="How this military explosive is poisoning American soil" weight="0.58051884" />
+      <edge id="578" source="Why female condoms are so hard to find" target="How smart is today's artificial intelligence?" weight="0.5870309" />
+      <edge id="579" source="Why female condoms are so hard to find" target="Why Stradivarius violins are worth millions" weight="0.5709489" />
+      <edge id="580" source="Why female condoms are so hard to find" target="Why the Oscars love method actors" weight="0.5898653" />
+      <edge id="581" source="Why does the Hawaii Kilauea volcano keep erupting?" target="This is the Future of Hot Dog Technology" weight="0.5997483" />
+      <edge id="582" source="Why does the Hawaii Kilauea volcano keep erupting?" target="How this military explosive is poisoning American soil" weight="0.5578778" />
+      <edge id="583" source="Why does the Hawaii Kilauea volcano keep erupting?" target="How smart is today's artificial intelligence?" weight="0.5656735" />
+      <edge id="584" source="Why does the Hawaii Kilauea volcano keep erupting?" target="Which Countries Are About To Collapse?" weight="0.6247679" />
+      <edge id="585" source="Why does the Hawaii Kilauea volcano keep erupting?" target="Why Stradivarius violins are worth millions" weight="0.56539154" />
+      <edge id="586" source="Why does the Hawaii Kilauea volcano keep erupting?" target="Why the Oscars love method actors" weight="0.5839691" />
+      <edge id="587" source="Why does the Hawaii Kilauea volcano keep erupting?" target="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" weight="0.607557" />
+      <edge id="588" source="Why does the Hawaii Kilauea volcano keep erupting?" target="Can you guess these WWE Superstars?" weight="0.58931863" />
+      <edge id="589" source="How this military explosive is poisoning American soil" target="This is the Future of Hot Dog Technology" weight="0.6278638" />
+      <edge id="590" source="How this military explosive is poisoning American soil" target="Curiosity at Martian Scenic Overlook" weight="0.6193431" />
+      <edge id="591" source="How this military explosive is poisoning American soil" target="The all-American fruit you've probably never heard of" weight="0.62075067" />
+      <edge id="592" source="How this military explosive is poisoning American soil" target="The Truth About Wireless Charging" weight="0.6326097" />
+      <edge id="593" source="How this military explosive is poisoning American soil" target="How smart is today's artificial intelligence?" weight="0.5919693" />
+      <edge id="594" source="How this military explosive is poisoning American soil" target="How Trump makes extreme things look normal" weight="0.62307125" />
+      <edge id="595" source="How this military explosive is poisoning American soil" target="Why Stradivarius violins are worth millions" weight="0.5863785" />
+      <edge id="596" source="How this military explosive is poisoning American soil" target="Why the Oscars love method actors" weight="0.6108118" />
+      <edge id="597" source="How smart is today's artificial intelligence?" target="How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184" weight="0.6364652" />
+      <edge id="598" source="How smart is today's artificial intelligence?" target="How Trump makes extreme things look normal" weight="0.61286175" />
+      <edge id="599" source="How smart is today's artificial intelligence?" target="Which Countries Are About To Collapse?" weight="0.6232639" />
+      <edge id="600" source="How smart is today's artificial intelligence?" target="Why Stradivarius violins are worth millions" weight="0.56775725" />
+      <edge id="601" source="How smart is today's artificial intelligence?" target="Why the Oscars love method actors" weight="0.605815" />
+      <edge id="602" source="How smart is today's artificial intelligence?" target="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" weight="0.6158562" />
+      <edge id="603" source="How smart is today's artificial intelligence?" target="Can you guess these WWE Superstars?" weight="0.5749346" />
+      <edge id="604" source="Why Stradivarius violins are worth millions" target="Why the Oscars love method actors" weight="0.59838086" />
+      <edge id="605" source="Why Stradivarius violins are worth millions" target="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" weight="0.6369611" />
+      <edge id="606" source="Why Stradivarius violins are worth millions" target="Can you guess these WWE Superstars?" weight="0.6191251" />
+      <edge id="607" source="Why the Oscars love method actors" target="Can you guess these WWE Superstars?" weight="0.6290722" />
+      <edge id="608" source="DJ Earworm Mashup - United State of Pop 2017 (How We Do It)" target="Logic &amp; Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]" weight="0.622105" />
+      <edge id="609" source="We Stole Tampons from the Cashier-less Amazon Go Store" target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.6336936" />
+      <edge id="610" source="We Stole Tampons from the Cashier-less Amazon Go Store" target="I made 2000 ugly holiday cards with a $100k robot arm" weight="0.59700364" />
+      <edge id="611" source="We Stole Tampons from the Cashier-less Amazon Go Store" target="We Built a 250cc Power Wheels Barbie Jeep" weight="0.56032306" />
+      <edge id="612" source="The Truth About Wireless Charging" target="The all-American fruit you've probably never heard of" weight="0.58706564" />
+      <edge id="613" source="The Truth About Wireless Charging" target="The Weirdest Mystery Tech Yet..." weight="0.58457446" />
+      <edge id="614" source="The Truth About Wireless Charging" target="The True All-Screen Smartphone is Here..." weight="0.58730567" />
+      <edge id="615" source="We Built a 250cc Power Wheels Barbie Jeep" target="This is the Future of Hot Dog Technology" weight="0.63892424" />
+      <edge id="616" source="We Built a 250cc Power Wheels Barbie Jeep" target="I made 2000 ugly holiday cards with a $100k robot arm" weight="0.58782554" />
+      <edge id="617" source="The True All-Screen Smartphone is Here..." target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.6295547" />
+      <edge id="618" source="The True All-Screen Smartphone is Here..." target="The all-American fruit you've probably never heard of" weight="0.5698335" />
+      <edge id="619" source="The True All-Screen Smartphone is Here..." target="The BEST Black Friday Tech Deals!" weight="0.61600995" />
+      <edge id="620" source="The True All-Screen Smartphone is Here..." target="The Weirdest Mystery Tech Yet..." weight="0.62830937" />
+      <edge id="621" source="Sprint Super Bowl Commercial 2018: Evelyn" target="Emergency goalie steals the show in Chicago" weight="0.6358248" />
+      <edge id="622" source="Sprint Super Bowl Commercial 2018: Evelyn" target="Ohio State vs. Wisconsin - Big Ten Championship Highlights" weight="0.61021364" />
+      <edge id="623" source="Sprint Super Bowl Commercial 2018: Evelyn" target="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" weight="0.57095206" />
+      <edge id="624" source="Sprint Super Bowl Commercial 2018: Evelyn" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.6180343" />
+      <edge id="625" source="Top 10 Plays of the Night: February 3, 2018" target="Top 10 Plays of the Night: December 16, 2017" weight="0.5" />
+      <edge id="626" source="Lindsey Stirling - Angels We Have Heard on High" target="Lindsey Stirling - Christmas C'mon feat. Becky G" weight="0.5" />
+      <edge id="627" source="Lindsey Stirling - Angels We Have Heard on High" target="Mason Ramsey - Famous [Lyric Video]" weight="0.5685855" />
+      <edge id="628" source="Lindsey Stirling - Angels We Have Heard on High" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.6281661" />
+      <edge id="629" source="Lindsey Stirling - Angels We Have Heard on High" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.53045434" />
+      <edge id="630" source="Lindsey Stirling - Christmas C'mon feat. Becky G" target="Mason Ramsey - Famous [Lyric Video]" weight="0.5685856" />
+      <edge id="631" source="Lindsey Stirling - Christmas C'mon feat. Becky G" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.6281661" />
+      <edge id="632" source="Lindsey Stirling - Christmas C'mon feat. Becky G" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.5304544" />
+      <edge id="633" source="Mason Ramsey - Famous [Lyric Video]" target="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" weight="0.61999553" />
+      <edge id="634" source="Mason Ramsey - Famous [Lyric Video]" target="Alan Walker - All Falls Down (Mio Remix)" weight="0.55141664" />
+      <edge id="635" source="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" target="Chloe x Halle - The Kids Are Alright - Official Music Video" weight="0.6171845" />
+      <edge id="636" source="Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack" target="Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！" weight="0.605662" />
+      <edge id="637" source="Senate passes historic GOP tax bill, House to revote" target="Introducing the Peloton Tread™" weight="0.6369637" />
+      <edge id="638" source="Senate passes historic GOP tax bill, House to revote" target="NASA Launches InSight to Mars (part 1)" weight="0.62517464" />
+      <edge id="639" source="Senate passes historic GOP tax bill, House to revote" target="The military coup in Zimbabwe, explained" weight="0.63321185" />
+      <edge id="640" source="Senate passes historic GOP tax bill, House to revote" target="Trump pardons Thanksgiving turkey" weight="0.5993392" />
+      <edge id="641" source="Senate passes historic GOP tax bill, House to revote" target="ISIS defeated in Iraq, officials say" weight="0.60416627" />
+      <edge id="642" source="Senate passes historic GOP tax bill, House to revote" target="Steelers Robbed By NFL Of Win Over Patriots" weight="0.63227516" />
+      <edge id="643" source="Introducing the Peloton Tread™" target="Important upgrades for the EleksMaker PCB laser CNC machine" weight="0.61932296" />
+      <edge id="644" source="NASA Launches InSight to Mars (part 1)" target="SpaceX Launches Falcon Heavy Rocket" weight="0.5476525" />
+      <edge id="645" source="ISIS defeated in Iraq, officials say" target="2017 Takes Second Place for Hottest Year" weight="0.63662696" />
+      <edge id="646" source="ISIS defeated in Iraq, officials say" target="Steelers Robbed By NFL Of Win Over Patriots" weight="0.5953286" />
+      <edge id="647" source="Steelers Robbed By NFL Of Win Over Patriots" target="Florida shooting suspect: Missed warning signs" weight="0.611769" />
+      <edge id="648" source="Steelers Robbed By NFL Of Win Over Patriots" target="Starving polar bear video exposes climate change impact" weight="0.62349355" />
+      <edge id="649" source="The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling" target="After the Show Show: National Cookie Day" weight="0.6334385" />
+      <edge id="650" source="After the Show Show: National Cookie Day" target="Officials give update on shooting at high school in Maryland" weight="0.63477576" />
+      <edge id="651" source="(HD VERSION) Kelly Clarkson &amp; P!nk Everybody Hurts LIVE at the 2017 American Music Awards!" target="iPod SSD hack, weird toothbrush dongles, and iPad accessories" weight="0.60755265" />
+      <edge id="652" source="Trying to Make a Wireless Lavalier Microphone" target="Talking to Myself (Official Lyric Video) - Linkin Park" weight="0.6124722" />
+      <edge id="653" source="Trying to Make a Wireless Lavalier Microphone" target="Paige Forced To Retire From In-Ring WWE Competiton" weight="0.6196786" />
+      <edge id="654" source="Trying to Make a Wireless Lavalier Microphone" target="Getting Delay, without using any effects..." weight="0.6070846" />
+      <edge id="655" source="Getting Delay, without using any effects..." target="Curiosity at Martian Scenic Overlook" weight="0.5979002" />
+      <edge id="656" source="Getting Delay, without using any effects..." target="Important upgrades for the EleksMaker PCB laser CNC machine" weight="0.6265511" />
+      <edge id="657" source="Emergency goalie steals the show in Chicago" target="Ohio State vs. Wisconsin - Big Ten Championship Highlights" weight="0.63214195" />
+      <edge id="658" source="Emergency goalie steals the show in Chicago" target="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" weight="0.61744165" />
+      <edge id="659" source="Emergency goalie steals the show in Chicago" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.6008744" />
+      <edge id="660" source="Ohio State vs. Wisconsin - Big Ten Championship Highlights" target="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" weight="0.5772946" />
+      <edge id="661" source="Ohio State vs. Wisconsin - Big Ten Championship Highlights" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.6320797" />
+      <edge id="662" source="Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs" target="Steelers' Jesse James late 4th quarter TD overruled! was it the right call?" weight="0.6045023" />
+      <edge id="663" source="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" target="Grammy Awards President: Women Need To Step Up!" weight="0.53867507" />
+      <edge id="664" source="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" target="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" weight="0.6209731" />
+      <edge id="665" source="Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury" target="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" weight="0.6273875" />
+      <edge id="666" source="Florida shooting suspect: Missed warning signs" target="Starving polar bear video exposes climate change impact" weight="0.59965754" />
+      <edge id="667" source="2017 Takes Second Place for Hottest Year" target="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" weight="0.6325435" />
+      <edge id="668" source="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" target="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" weight="0.61304456" />
+      <edge id="669" source="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" target="2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports" weight="0.63733596" />
+      <edge id="670" source="Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News" target="2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports" weight="0.63733596" />
+      <edge id="671" source="Talking to Myself (Official Lyric Video) - Linkin Park" target="Selling My iPhone X To a Machine at Walmart" weight="0.5956181" />
+      <edge id="672" source="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" target="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" weight="0.5985254" />
+      <edge id="673" source="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" target="The all-American fruit you've probably never heard of" weight="0.6278795" />
+      <edge id="674" source="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" target="The BEST Black Friday Tech Deals!" weight="0.6147227" />
+      <edge id="675" source="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" target="The robot-proof job men aren't taking" weight="0.6311326" />
+      <edge id="676" source="The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal" target="The Weirdest Mystery Tech Yet..." weight="0.6369238" />
+      <edge id="677" source="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" target="2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports" weight="0.6353301" />
+      <edge id="678" source="Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports" target="2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports" weight="0.6353301" />
+      <edge id="679" source="2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports" target="2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports" weight="0.5" />
+      <edge id="680" source="$14,000 GOLD bar vs 60,000 PSI Waterjet - with Cody's Lab" target="0.38 Second Rubik's Cube Solve" weight="0.62819874" />
+      <edge id="681" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="Curiosity at Martian Scenic Overlook" weight="0.63292193" />
+      <edge id="682" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="The all-American fruit you've probably never heard of" weight="0.5981764" />
+      <edge id="683" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="Dan + Shay - Speechless (Wedding Video)" weight="0.63707495" />
+      <edge id="684" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="Bannon Arrives to Testify on Capitol Hill" weight="0.5983322" />
+      <edge id="685" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="Starving polar bear video exposes climate change impact" weight="0.63346785" />
+      <edge id="686" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="The robot-proof job men aren't taking" weight="0.6281144" />
+      <edge id="687" source="The DANKEST Ergonomic Keyboard - Ergodox EZ Review" target="The DENON DP 47F Turntable - an Automatic Classic" weight="0.63187337" />
+      <edge id="688" source="Curiosity at Martian Scenic Overlook" target="Muse - Thought Contagion [Official Music Video]" weight="0.61660373" />
+      <edge id="689" source="The all-American fruit you've probably never heard of" target="The BEST Black Friday Tech Deals!" weight="0.6147586" />
+      <edge id="690" source="The all-American fruit you've probably never heard of" target="The robot-proof job men aren't taking" weight="0.5634849" />
+      <edge id="691" source="The all-American fruit you've probably never heard of" target="The Weirdest Mystery Tech Yet..." weight="0.6170513" />
+      <edge id="692" source="This is the Future of Hot Dog Technology" target="Is the Surface Book 2 a MacBook Pro Killer?" weight="0.63834655" />
+      <edge id="693" source="Which Countries Are About To Collapse?" target="Can you guess these WWE Superstars?" weight="0.6378827" />
+      <edge id="694" source="Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)" target="Can you guess these WWE Superstars?" weight="0.55690706" />
+      <edge id="695" source="Bellator 187: Conor McGregor storms the Bellator MMA Cage" target="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" weight="0.5605736" />
+      <edge id="696" source="Bellator 187: Conor McGregor storms the Bellator MMA Cage" target="UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview" weight="0.53164023" />
+      <edge id="697" source="AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018" target="UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview" weight="0.6063175" />
+      <edge id="698" source="iPod SSD hack, weird toothbrush dongles, and iPad accessories" target="Samsung Galaxy S9 Camera: What's New!" weight="0.60733277" />
+      <edge id="699" source="Mr. President, are you a racist? (C-SPAN)" target="Disgraced former archbishop of Boston, Cardinal Bernard Law, has died in Rome at 86." weight="0.6005686" />
+      <edge id="700" source="The BEST Black Friday Tech Deals!" target="The Weirdest Mystery Tech Yet..." weight="0.6125859" />
+      <edge id="701" source="Prince Harry and Meghan Markle reveal proposal details" target="Prince Harry and Meghan Markle to wed in Windsor in May - BBC News" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>

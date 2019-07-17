@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width" />
+    <title>ECharts Youtube</title>
+    <!--script src="jquery-1.10.2.min.js"></script-->
+    <script src="incubator-echarts-4.2.1/test/lib/jquery.min.js"></script>
+    <script src="incubator-echarts-4.2.1/dist/echarts.min.js"></script>
+    <script src="incubator-echarts-4.2.1/dist/extension/dataTool.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script><!--csv-->
+
+    <style type="text/css">
+        html, body, #main { height: 100%; width: 100%; margin: 0; padding: 0 }
+    </style>
+</head>
+<body>
+<div id="main" style=""></div>
+<script type="text/javascript">
+    var myChart = echarts.init(document.getElementById('main'));
+    //app.title = '力引导布局';
+
+
+
+    myChart.showLoading();
+
+    //tryload
+    var arrtitle=new Array(248);
+    var arrdislikes=new Array(248);
+    var arrlikes=new Array(248);
+    var arrvedioid=new Array(248);
+    var arrviews=new Array(248);
+
+    count=0;
+    $.getJSON("result.json", function(data) {　 //each循环 使用$.each方法遍历返回的数据date
+        $.each(data, function(i, item) {
+
+            var strtitle = item.title;
+            var strdislikes = item.dislikes;
+            var strlikes = item.likes;
+            var strvedioid = '<img src="https://i.ytimg.com/vi/'+item.video_id+'/0.jpg"  />';
+            var strviews = item.views;
+
+            arrtitle[count]=strtitle;
+            arrdislikes[count]=strdislikes;
+            arrlikes[count]=strlikes;
+            arrvedioid[count]=strvedioid;
+            arrviews[count]=strviews;
+            count=count+1;
+
+        })
+        //document.write(arr[2]);
+    });
+    //
+
+
+    $.get('result.gexf', function (xml) {
+        myChart.hideLoading();
+
+        var graph = echarts.dataTool.gexf.parse(xml);
+        var categories = [];
+        for (var i = 0; i < 16; i++) {
+            categories[i] = {
+                name: 'Community' + i
+            };
+        }
+
+        //var counts=0;
+        graph.nodes.forEach(function (node) {
+
+            node.itemStyle = null;
+            node.symbolSize = 15;
+            //node.likes=csvdata[counts][7];
+            //counts=counts+1;
+            node.value = node.symbolSize;
+            var arr0=["5 McDonald's Gadgets put to the Test!",
+                "Conor McGregor's FULL court appearance",
+                "Emergency goalie steals the show in Chicago",
+                "Garry Frank's Weather Rant - 4/10/18",
+                "John Collins' Best Dunks So Far This Season",
+                "Ohio State vs. Wisconsin - Big Ten Championship Highlights",
+                "Oklahoma City Thunder vs Utah Jazz Full Game Highlights / Game 3 / 2018 NBA Playoffs",
+                "Paul Allen's Radio Call of the Minnesota Vikings' Unbelievable Miracle Touchdown vs. Saints",
+                "Roger Federer's  20th Grand Slam Victory Tribute",
+                "Ronaldinho's most jaw-dropping plays with Barça",
+                "Sprint Super Bowl Commercial 2018: Evelyn",
+                "Steelers' Jesse James late 4th quarter TD overruled! was it the right call?",
+                "WrestleMania's memorable returns: WWE Top 10, March 24, 2018"];
+            var arr1=["'I have dad moves': Barack Obama discusses dancing on David Letterman's new Netflix show",
+                "Can you guess these WWE Superstars?",
+                "Do You Hear Yanny or Laurel? (SOLVED with SCIENCE)",
+                "How Trump makes extreme things look normal",
+                "How smart is today's artificial intelligence?",
+                "How this military explosive is poisoning American soil",
+                "Is the Surface Book 2 a MacBook Pro Killer?",
+                "It's not you. Commuting is bad for your health.",
+                "The Queen's advice on wearing a crown - BBC News",
+                "This is the Future of Hot Dog Technology",
+                "Which Countries Are About To Collapse?",
+                "Why Stradivarius violins are worth millions",
+                "Why Wednesday's Super Blue Blood Moon will be a sight to behold",
+                "Why does the Hawaii Kilauea volcano keep erupting?",
+                "Why female condoms are so hard to find",
+                "Why the Oscars love method actors"
+            ];
+
+            var arr2=["(HD VERSION) Kelly Clarkson & P!nk Everybody Hurts LIVE at the 2017 American Music Awards!",
+                "After the Show Show: National Cookie Day",
+                "CNN's Anthony Bourdain dead at 61",
+                "Classic Game Enthusiast's DREAM?",
+                "Dan + Shay - Speechless (Wedding Video)",
+                "Dope Tech of CES 2018! [Part 1]",
+                "ETRADE Super Bowl Commercial 2018  This Is Getting Old",
+                "Fake Feminist Trudeau Takes Offence At Woman Saying Mankind",
+                "First footage of deep-sea anglerfish pair",
+                "Florida ER nurse goes on epic rant about flu season",
+                "Florida shooting suspect: Missed warning signs",
+                "Footage of starving polar bear exposes climate change impact",
+                "Google Pixelbook: $1000 of Weird!",
+                "JaVale McGee's Parking Lot Chronicles: Episode 3",
+                "Logic & Rag'n'Bone Man - Broken People (from Bright: The Album) [Official Audio]",
+                "Massive nor'easter bearing down on East Coast",
+                "Officials give update on shooting at high school in Maryland",
+                "PBS NewsHour Weekend full episode Dec. 2, 2017",
+                "Preview of the Peopoly Moai SLA Resin 3D Printer at Matterhackers",
+                "SF Museum Groundbreaking Show Survival Research Labs 1992",
+                "Samsung Galaxy S9 Camera: What's New!",
+                "Secret Santa pays a visit to Harvey-ravaged Texas",
+                "Starving polar bear video exposes climate change impact",
+                "Television icon Jim Nabors has passed away",
+                "The 'duck curve' is solar energy's greatest challenge",
+                "The BEST Black Friday Tech Deals!",
+                "The Big Ugly - Dramatic Rescue of a Fallen Big Wave Surfer - #Drone - Nazaré, Portugal",
+                "The DANKEST Ergonomic Keyboard - Ergodox EZ Review",
+                "The DENON DP 47F Turntable - an Automatic Classic",
+                "The Final Countdown - Europe (Vintage Cabaret Cover) ft. Gunhild Carling",
+                "The Super Google Pixel 2 Camera Upgrade!",
+                "The True All-Screen Smartphone is Here...",
+                "The Truth About Wireless Charging",
+                "The ULTIMATE $30,000 Gaming PC Setup",
+                "The Weeknd - Call Out My Name (Official Video)",
+                "The Weirdest Mystery Tech Yet...",
+                "The all-American fruit you've probably never heard of",
+                "The fight to make bad jobs better",
+                "The robot-proof job men aren't taking",
+                "Watch Rosenstein’s full announcement of the indictment of 13 Russians",
+                "Watch SpaceX Launch A Tesla Roadster To Mars On The Falcon Heavy Rocket — And Why It Matters",
+                "Watch the full shootout between the USA and Canada",
+                "iPod SSD hack, weird toothbrush dongles, and iPad accessories"];
+
+            var arr3=["Alan Walker - All Falls Down (Mio Remix)",
+                "Andrew Wiggins Dunks on Poeltl Twice! Lowry 40 Points! 2017-18 Season",
+                "Ann Curry says verbal sexual harassment was pervasive at NBC",
+                "Bannon Arrives to Testify on Capitol Hill",
+                "Bella Thorne - Burn so Bright from the Midnight Sun Original Motion Picture Soundtrack",
+                "Billie Eilish - lovely (with Khalid) Audio",
+                "Calum Scott - You Are The Reason (Official)",
+                "Charlie Puth - Done For Me (feat. Kehlani) [Official Video]",
+                "Chloe x Halle - The Kids Are Alright - Official Music Video",
+                "Coach Taggart Monday Presser Ahead of Arizona",
+                "Devin Booker And Julius Randle Wildcats Fight！“You The Full Of Shit”！",
+                "Emotional Steve Smith Breaks Down During Apology",
+                "Frances McDormand wins best actress at the 2018 Oscars",
+                "Gohmert Questions FBI Director Christopher Wray",
+                "Gretchen Carlson says it's time to modernize the Miss America pageant",
+                "Joel Embiid Full Highlights 2017.11.13 at Clippers - 32 Points, 16 Rebs, UNSTOPPABLE!",
+                "Josh Groban with Tony Bennett - Christmas Time Is Here (Official Music Video)",
+                "Kellyanne Conway on Roy Moore This Week Abc: Trump’s Not Being Briefed On This Bit By Bit 11/12/17",
+                "Liam Payne, Rita Ora - For You (Fifty Shades Freed)",
+                "Lindsey Stirling - Angels We Have Heard on High",
+                "Lindsey Stirling - Christmas C'mon feat. Becky G",
+                "Lindsey Vonn: I won't be representing Trump at Olympics",
+                "MAYWEATHER CHECKS DANA WHITE FOR USING NAME TO RENEW FOX DEAL; ENDS UFC RUMORS ONCE AND FOR ALL",
+                "Marteen - We Cool (Official Music Video)",
+                "Mason Ramsey - Famous [Lyric Video]",
+                "Nicki Minaj - Chun-Li (Live on SNL / 2018)",
+                "OK Go - Obsession - Official Video",
+                "P!nk presentation on AMAs 2017",
+                "Rachel Platten - Whole Heart (Audio)",
+                "Remy Ma - Melanin Magic (Pretty Brown) (Video) ft. Chris Brown",
+                "Remy Ma - Wake Me Up (Audio) ft. Lil' Kim",
+                "Remy Ma - Wake Me Up ft. Lil' Kim",
+                "Rey Mysterio makes a shocking return in the Royal Rumble Match: Royal Rumble 2018 (WWE Network)",
+                "Ronda Rousey demands an apology from Stephanie McMahon: Raw, Feb. 26, 2018",
+                "Ronda Rousey helps Natalya fend off Absolution: Raw, April 16, 2018",
+                "Sam Smith - One Last Song (Official Video)",
+                "Samy Kamkar: Getting Started with Reverse Engineering",
+                "Sigrid - Strangers (Lyric Video)",
+                "Wallows - Pictures of Girls (Official Video)"];
+
+            var arr4=["3D Printed Nitro Engine Plastic Connecting Rod",
+                "Amtrak Crash: 2 dead, at least 70 injured in S Carolina",
+                "CALLING OUT OLYMPIC CHAMPIONS!?  {Press Up Challenge}",
+                "Casting Mirror Polished Japanese Foil Ball from Molten Aluminium",
+                "Console Security - Switch (34c3 Lecture with derrek, plutoo, and naehrwert)",
+                "Crushing and Slicing Red Hot Steel with Hydraulic Press",
+                "Curiosity at Martian Scenic Overlook",
+                "Drone captures dramatic Ohio River flooding",
+                "Exercise Ball Magnus Effect from 200m!!",
+                "Foster The People - Sit Next to Me (Official Video)",
+                "Get to know Doug Jones, Alabama's newest Senator",
+                "Getting Delay, without using any effects...",
+                "Hacking PIN Codes with a 3D Printer - Hak5 2314",
+                "How job surveillance is transforming trucking in America",
+                "How to record Slow Motion Sounds (Exploding Tomato at 60,000fps) - Smarter Every Day 184",
+                "Let It Go - Frozen ( cover by Big Marvel )",
+                "Make it Real: HULK FIST SMASHES EVERYTHING",
+                "Making new sounds using artificial intelligence",
+                "Man Creates Snow Plow Out Of TV Box, Lawn Mower",
+                "Man scales building to save dangling child",
+                "Muse - Thought Contagion [Official Music Video]",
+                "OPTICAL ILLUSION: Jaw-dropping Diamonds",
+                "Obsidian with a 60,000 PSI Waterjet - Obsidian Cube Seer Stone?",
+                "Paige Forced To Retire From In-Ring WWE Competiton",
+                "Robot Muscle, Photovoltaic Roads, Milking Platypus, Hero Rats… Mind Blow",
+                "Scuba Diving and Fishing Underwater in a Crystal Clear Pond! (Caught a Fish 26ft Deep)",
+                "Selling My iPhone X To a Machine at Walmart",
+                "Talking to Myself (Official Lyric Video) - Linkin Park",
+                "Team USA Dances Into Olympics ‘Gangnam Style’",
+                "Tractor Hacking: The Farmers Breaking Big Tech's Repair Monopoly",
+                "Trump pardons Thanksgiving turkey",
+                "Trying to Make a Wireless Lavalier Microphone",
+                "Tsunami alerts across Pacific Coast following earthquake",
+                "YOGA CHALLENGE WITH TOM DALEY **Got Tasty**"];
+            var arr5=["Hawaii gets false missile strike alert",
+                "I built a hammering machine that destroys everything",
+                "I made 2000 ugly holiday cards with a $100k robot arm",
+                "We Built a 250cc Power Wheels Barbie Jeep",
+                "We Stole Tampons from the Cashier-less Amazon Go Store",
+                "What we know about Amtrak's deadly South Carolina collision"];
+
+            var arr6=["Datally: A new mobile data-saving app by Google.",
+                "WATCH: Sen. Mitch McConnell on tax reform",
+                "WATCH: Trump sexual misconduct accusers hold news briefing"];
+
+            var arr7=["AJ Styles reacts to the WWE Title Handicap Match at Royal Rumble: SmackDown LIVE, Jan. 9, 2018",
+                "Alicia Keys - When You Were Gone",
+                "Ariana Grande - No Tears Left To Cry (Live From The Billboard Music Awards / 2018)",
+                "Bellator 187: Conor McGregor storms the Bellator MMA Cage",
+                "Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)",
+                "DJ Earworm Mashup - United State of Pop 2017 (How We Do It)",
+                "Diplo - Color Blind (feat. Lil Xan) (Official Music Video)",
+                "Ed Sheeran & Anne-Marie - Fairytale Of New York in the Live Lounge",
+                "Elton John - His Past, London's Present. A Taste Of The Future.",
+                "Evanescence - Together Again (Official Audio)",
+                "Fall Out Boy - Yule Shoot Your Eye Out (Audio)",
+                "Foo Fighters - Everlong/Christmas (Baby Please Come Home)/ Linus And Lucy (Live At SNL)",
+                "Grammy Awards President: Women Need To Step Up!",
+                "Grammys 2018: Hillary Clinton surprises crowd to read Fire and Fury",
+                "Hunter Hayes - This Girl (Part Three Of Pictures)",
+                "Jerry Van Dyke, star of ‘Coach,’ dead at 86",
+                "Julia Michaels - Jump (Lyric Video) ft. Trippie Redd",
+                "Justin Timberlake - INTRODUCING MAN OF THE WOODS",
+                "Justin Timberlake covers Prince at Super Bowl half-time show",
+                "Kesha - Learn To Let Go in the Live Lounge",
+                "LeBron James 44 Points & A Game Winner!",
+                "LeBron James Drops 45 Points in GAME 7!",
+                "LeBron James Pulls a SWEET Behind-the-Back Move Between Tristan Thompson's Legs!",
+                "Matt Hardy vows to “delete” Bray Wyatt: Raw, Dec. 4, 2017",
+                "Natalie Portman speaks at Women's March",
+                "Nikki Haley: 'We will never accept a nuclear North Korea'",
+                "Shawn Mendes In My Blood (Audio)",
+                "Sting & Shaggy - Don't Make Me Wait (audio)",
+                "Tim McGraw, Faith Hill - Cowboy Lullaby (Audio)",
+                "UFC 223: Namajunas vs Joanna 2 - Jimmy Smith Preview"];
+
+            var arr8=["Iraq-Iran earthquake: Deadly tremor hits border region - BBC News",
+                "North Korea is afraid of Samsung cell phones",
+                "North Korea will send a team to the Winter Olympics",
+                "North Korean athletes under 24-hour watch at Olympics",
+                "Olympic gymnast Aly Raisman speaks at Larry Nassar sentencing"];
+
+            var arr9=["Controversial WH adviser speaks out on resignation",
+                "ISIS defeated in Iraq, officials say",
+                "Important upgrades for the EleksMaker PCB laser CNC machine",
+                "Introducing the Peloton Tread™",
+                "NASA Launches InSight to Mars (part 1)",
+                "Senate passes historic GOP tax bill, House to revote",
+                "SpaceX Launches Falcon Heavy Rocket",
+                "Steelers Robbed By NFL Of Win Over Patriots",
+                "The military coup in Zimbabwe, explained"];
+
+            var arr10=["Inside FC Barcelona’s ambitious plan to reinvent the Camp Nou, by Wired and Audifootball",
+                "Inside The NBA: Cavaliers vs. Raptors Game 2 Analysis",
+                "Inside the NBA: Andre Ingram Speaks With The Inside Crew",
+                "Inside the NBA: Rockets-Clippers Locker Room Drama",
+                "Top 10 NBA Celebrity Reactions - The Starters",
+                "Top 10 Plays of the Night: December 16, 2017",
+                "Top 10 Plays of the Night: February 3, 2018"];
+
+            var arr11=["Milo Takes Calls From Infowars Listeners",
+                "Rihanna Claps Back at Snapchat for Domestic Violence Ad Featuring Chris Brown",
+                "The Undertaker returns: Raw 25, Jan. 22, 2018",
+                "Trump meets with students following Florida shooting"];
+
+            var arr12=["2017 Takes Second Place for Hottest Year",
+                "2018 Winter Olympics Recap Day 10 I Part 1 I NBC Sports",
+                "2018 Winter Olympics Recap Part 1 I Day 1 I NBC Sports",
+                "Belmont Stakes 2018 I FULL RACE I Justify's Pursuit of the Triple Crown I NBC Sports",
+                "Royal wedding 2018: Lip-reader on what Meghan and Harry said - BBC News"];
+
+            var arr13=["$14,000 GOLD bar vs 60,000 PSI Waterjet - with Cody's Lab",
+                "0.38 Second Rubik's Cube Solve"];
+
+            var arr14=["Disgraced former archbishop of Boston, Cardinal Bernard Law, has died in Rome at 86.",
+                "Mr. President, are you a racist? (C-SPAN)"];
+
+            var arr15=["Prince Harry and Meghan Markle reveal proposal details",
+                "Prince Harry and Meghan Markle to wed in Windsor in May - BBC News"];
+
+
+
+            if(arr0.indexOf(node.id)!=-1){
+                node.category =0;
+            }
+            else if(arr1.indexOf(node.id)!=-1){
+                node.category =1;
+            }
+            else if(arr2.indexOf(node.id)!=-1){
+                node.category =2;
+            }
+            else if(arr3.indexOf(node.id)!=-1){
+                node.category =3;
+            }
+            else if(arr4.indexOf(node.id)!=-1){
+                node.category =4;
+            }
+            else if(arr5.indexOf(node.id)!=-1){
+                node.category =5;
+            }
+            else if(arr6.indexOf(node.id)!=-1){
+                node.category =6;
+            }
+            else if(arr7.indexOf(node.id)!=-1){
+                node.category =7;
+            }
+            else if(arr8.indexOf(node.id)!=-1){
+                node.category =8;
+            }
+            else if(arr9.indexOf(node.id)!=-1){
+                node.category =9;
+            }
+            else if(arr1.indexOf(node.id)!=-1){
+                node.category =1;
+            }
+            else if(arr10.indexOf(node.id)!=-1){
+                node.category =10;
+            }
+            else if(arr11.indexOf(node.id)!=-1){
+                node.category =11;
+            }
+            else if(arr12.indexOf(node.id)!=-1){
+                node.category =12;
+            }
+            else if(arr13.indexOf(node.id)!=-1){
+                node.category =13;
+            }
+            else if(arr14.indexOf(node.id)!=-1){
+                node.category =14;
+            }
+            else if(arr15.indexOf(node.id)!=-1){
+                node.category =15;
+            }
+            else{ node.category =9;}
+
+           // node.category =0;
+
+
+            // Use random x, y
+            node.x = node.y = null;
+            node.draggable = true;
+            //node.des=1;
+
+
+            var index=arrtitle.indexOf(node.id);
+            //node.dislikes=arrdislikes[index];
+            //node.likes=arrlikes[index];
+            //node.vediopic=arrvedioid[index];
+            //node.views=arrviews[index];
+            //node.des=1;
+
+            node.des='likes:'+arrlikes[index]+'<br\>'+'dislikes:'+arrdislikes[index]+'<br\>'+'views:'+arrviews[index]+'<br\>'+arrvedioid[index];
+
+        });
+
+
+        option = {
+            draggable: false,
+            title: {
+                text: 'Community Detection of Youtube Titles',
+                subtext: 'Default layout',
+                top: 'bottom',
+                left: 'right'
+            },
+            tooltip: {
+                show : true,   //默认显示
+                showContent:true,
+                trigger:'item',
+                triggerOn:'click',
+                alwaysShowContent:false,
+                showDelay:0,
+                hideDelay:200,
+                enterable:false,
+                position:'right',
+                confine:false,
+                transitionDuration:0.4,
+                formatter: function (x) {
+                   return x.data.des;
+                    // return 'likes:'+x.data.likes+'<br\>'+'dislikes:'+x.data.dislikes+'<br\>'+'views:'+x.data.views+'<br\>'+x.data.vediopic;
+                }
+
+
+            },
+            animationDuration: 1500,
+            animationEasingUpdate: 'quinticInOut',
+
+            legend: [{
+                // selectedMode: 'single',
+                data: categories.map(function (a) {
+                    return a.name;
+                })
+            }],
+            animation: false,
+            series : [
+                {
+                    name: 'Les Miserables',
+                    type: 'graph',
+                    layout: 'force',
+                    data: graph.nodes,
+                    links: graph.links,
+                    focusNodeAdjacency: true,
+                    lineStyle: {
+                        color: 'source',
+                        //curveness: 0.3
+                    },
+                    categories: categories,
+                    itemStyle: {
+                        normal: {
+                            borderColor: '#fff',
+                            borderWidth: 1,
+                            shadowBlur: 10,
+                            shadowColor: 'rgba(0, 0, 0, 0.3)'
+                        }
+                    },
+                    emphasis: {
+                        lineStyle: {
+                            width: 8
+                        }
+                    },
+                    roam: true,
+                    label: {
+                        normal: {
+                            position: 'right'
+                        }
+                    },
+                    force: {
+                        repulsion: 100,
+                        gravity : 0.1
+                        //edgeLength: 10
+                    }
+                }
+            ]
+        };
+
+        myChart.setOption(option);
+    }, 'xml');
+</script>
+</body>
+</html>
