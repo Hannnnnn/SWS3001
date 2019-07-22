@@ -38,45 +38,127 @@
             <div class="col"></div>
             <div class="col">
                     
-                    <h4 class="title">Overview</h4>  
-                    <text>  ‘Controversial WH adviser speaks out on resignation'
-                            'ISIS defeated in Iraq, officials say'
-                            'Important upgrades for the EleksMaker PCB laser CNC machine'
-                            'Introducing the Peloton Tread™'
-                            'NASA Launches InSight to Mars (part 1)'
-                            'Senate passes historic GOP tax bill, House to revote'
-                            'SpaceX Launches Falcon Heavy Rocket'
-                            'Steelers Robbed By NFL Of Win Over Patriots'
-                            'The military coup in Zimbabwe, explained’
-                          </text>
-                    
-                          <br></br>     
-                    <h4 class="title">Workflow</h4>  
+                    <div class="paragraph">
+                        <h4 class="title">Introduction</h4>  
+                        <img class="center" src='2.jpg'/>
+                        
+                        <text>  
+                              When you serach the video on YouTube, some titles are attractive so you will click the video and watch it.
+                              Typically the video is classified by the content of video. In this project, we will work on the video title and discover the community in videos.
+                              And we hope to discover new insights based on the analysis of video titles.
+                        </text>
 
-                    <text>  ‘Controversial WH adviser speaks out on resignation'
-                            'ISIS defeated in Iraq, officials say'
-                            'Important upgrades for the EleksMaker PCB laser CNC machine'
-                            'Introducing the Peloton Tread™'
-                            'NASA Launches InSight to Mars (part 1)'
-                            'Senate passes historic GOP tax bill, House to revote'
-                            'SpaceX Launches Falcon Heavy Rocket'
-                            'Steelers Robbed By NFL Of Win Over Patriots'
-                            'The military coup in Zimbabwe, explained’
-                          </text>
+                    </div>
+                   
                     
-                    <br></br>
-                    <h4 class="title">Workflow</h4>  
+                    <div class="paragraph"> 
+                        <h4 class="title">Workflow</h4>  
 
-                    <text>  ‘Controversial WH adviser speaks out on resignation'
-                            'ISIS defeated in Iraq, officials say'
-                            'Important upgrades for the EleksMaker PCB laser CNC machine'
-                            'Introducing the Peloton Tread™'
-                            'NASA Launches InSight to Mars (part 1)'
-                            'Senate passes historic GOP tax bill, House to revote'
-                            'SpaceX Launches Falcon Heavy Rocket'
-                            'Steelers Robbed By NFL Of Win Over Patriots'
-                            'The military coup in Zimbabwe, explained’
-                          </text>
+                        <text>  
+                            
+                            Our Project consists of four parts.
+                            <ul>
+                                <li>Get & Clean Dataset</li>
+                                <li>Encode Video Title</li>
+                                <li>Build Graph</li>
+                                <li>Community Detection</li>
+                              </ul>
+                        </text>
+
+
+                    </div>
+                    
+                    
+                    <div class="paragraph"> 
+                        <h5 class="title">Get & Clean Dataset</h5>  
+                        <text> 
+                            <ul>
+                                <li>Dataset: YouTube Dataset on Kaggle</li>
+                                <li>Website: https://www.kaggle.com/datasnaek/youtube-new?tdsourcetag=s_pctim_aiomsg</li>
+                                <li>We choose the titles in YouTube US</li>
+                                <li>Remove emoji and Korean words + sampling</li>
+                                <li>238 titles and 5 categories</li>
+                          
+                            </ul>
+                       </text>
+                     </div>
+                  
+                  <div class="paragraph"> 
+                      <h5 class="title">Encode Video Title </h5>  
+                      <text>
+                            Pretrained deep learning is used to encode the video title. The state of art NLP model BERT can help us convert the sentence to vector.
+                            <img class="center" src="1.png"/>
+
+                      </text>
+                  </div>
+
+                  <div class="paragraph"> 
+                   <h5 class="title">Build Graph</h5>
+                    <text>
+                          <div>
+                              The graph we build is based on the dissimilarity of titles. We calcualte the pairwise distance by cosine distance. Besides, we use PCA to do dimension
+                          reduction (from 768 dimensions to 48 dimensions). 
+                          </div>
+                          
+                    </text>
+                  </div>
+
+                  <div class="paragraph"> 
+                   <h5 class="title">Community Detection</h5>
+                   <text>
+                      We have tried three algorithm to detect the communities. We found that the Girvan-Newman algorithm give the best result.
+
+                   </text>
+                  </div>
+                  
+                  <div class="paragraph"> 
+                      <h4 class="title">Insight</h4>
+                      <h5>Insight 1: Community 1 includes interrogative questions beginning with How, What, Is......</h5>
+                      <img class="center" src="3.png"/>
+                      <text>
+                          Example:
+                          <ui>
+                              <li>Can you guess these WWE Superstars?</li>
+                              <li>Do You Hear Yanny or Laurel? </li>
+                              <li>How Trump makes extreme things look normal</li>
+                              <li>How smart is today's artificial intelligence?</li>
+                              <li>this military explosive is poisonin American soil</li> 
+                              <li>Is the Surface Book 2 a MacBook Pro Killer?</li>
+                              <li>……</li>
+
+                          </ui>
+                         
+
+
+                      </text>
+                  </div>
+
+                  <div class="paragraph">
+                      <h5 class="title">Insight 2 : Same Content Same Titles</h5>
+                   <text>
+                      <ui>
+                          <li>Community 0 is almost about news.</li>
+                          
+                         
+                          <img src="5.png"/>
+
+                          <li>Community 3 is almost about music.</li>
+                          <img src="6.png"/>
+
+                          <li>Community 4 is almost about Technology.</li>
+                          <img src="7.png"/>
+                      </ui>
+
+                   </text>
+
+                   <div>
+                      <h5 class="title">Insight 2 : Same Content Same Titles</h5>
+                   <text>
+                      
+
+                   </text>
+
+                  </div>
             </div>
             <div class="col"></div>
 
